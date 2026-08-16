@@ -3,7 +3,7 @@ import { CHIYODA, SHIBUYA, grantAndSetGeolocation } from './fixtures/geolocation
 
 test('移動すると家賃相場の表示が自動更新される', async ({ page, context }) => {
   await grantAndSetGeolocation(context, CHIYODA);
-  await page.goto('/');
+  await page.goto('./');
 
   await expect(page.locator('#status')).toContainText('東京都千代田区');
 
