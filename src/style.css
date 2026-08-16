@@ -10,13 +10,17 @@ body {
   color: #111111;
   display: flex;
   justify-content: center;
+  overflow-x: hidden;
 }
 
 #app {
   width: 100%;
   max-width: 480px;
-  padding: 1.5rem 1.25rem 3rem;
   box-sizing: border-box;
+  padding-top: max(1.5rem, env(safe-area-inset-top));
+  padding-right: max(1.25rem, env(safe-area-inset-right));
+  padding-bottom: max(3rem, env(safe-area-inset-bottom));
+  padding-left: max(1.25rem, env(safe-area-inset-left));
 }
 
 h1 {
@@ -57,7 +61,7 @@ h1 {
 }
 
 .rent-card .rent-value {
-  font-size: 2rem;
+  font-size: clamp(1.5rem, 6vw, 2rem);
   font-weight: 700;
   margin: 0.5rem 0;
   white-space: nowrap;
@@ -72,6 +76,8 @@ h1 {
 button {
   font-size: 1rem;
   padding: 0.6rem 1.2rem;
+  min-height: 44px;
+  min-width: 44px;
   border-radius: 8px;
   border: 2px solid #111111;
   background: #111111;
