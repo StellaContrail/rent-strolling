@@ -1,17 +1,8595 @@
 {
   "surveyYear": 2023,
-  "generatedAt": "2026-08-16T00:00:00.000Z",
-  "note": "これは開発確認用の仮データです。npm run fetch-data 実行後、e-Statの実データで上書きされます。",
+  "generatedAt": "2026-08-16T08:49:05.222Z",
   "records": [
-    { "muniCode": "13101", "prefName": "東京都", "muniName": "千代田区", "rentPerSqm": 4200, "surveyYear": 2023 },
-    { "muniCode": "13102", "prefName": "東京都", "muniName": "中央区", "rentPerSqm": 4000, "surveyYear": 2023 },
-    { "muniCode": "13103", "prefName": "東京都", "muniName": "港区", "rentPerSqm": 4300, "surveyYear": 2023 },
-    { "muniCode": "13104", "prefName": "東京都", "muniName": "新宿区", "rentPerSqm": 3400, "surveyYear": 2023 },
-    { "muniCode": "13113", "prefName": "東京都", "muniName": "渋谷区", "rentPerSqm": 3800, "surveyYear": 2023 },
-    { "muniCode": "14100", "prefName": "神奈川県", "muniName": "横浜市", "rentPerSqm": 2400, "surveyYear": 2023 },
-    { "muniCode": "23100", "prefName": "愛知県", "muniName": "名古屋市", "rentPerSqm": 1900, "surveyYear": 2023 },
-    { "muniCode": "27100", "prefName": "大阪府", "muniName": "大阪市", "rentPerSqm": 2100, "surveyYear": 2023 },
-    { "muniCode": "01100", "prefName": "北海道", "muniName": "札幌市", "rentPerSqm": 1500, "surveyYear": 2023 },
-    { "muniCode": "40100", "prefName": "福岡県", "muniName": "北九州市", "rentPerSqm": 1200, "surveyYear": 2023 }
+    {
+      "muniCode": "01100",
+      "prefName": "北海道",
+      "muniName": "札幌市",
+      "rentPerSqm": 1223,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01101",
+      "prefName": "北海道",
+      "muniName": "札幌市　中央区",
+      "rentPerSqm": 1427,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01102",
+      "prefName": "北海道",
+      "muniName": "札幌市　北区",
+      "rentPerSqm": 1198,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01103",
+      "prefName": "北海道",
+      "muniName": "札幌市　東区",
+      "rentPerSqm": 1175,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01104",
+      "prefName": "北海道",
+      "muniName": "札幌市　白石区",
+      "rentPerSqm": 1185,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01105",
+      "prefName": "北海道",
+      "muniName": "札幌市　豊平区",
+      "rentPerSqm": 1264,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01106",
+      "prefName": "北海道",
+      "muniName": "札幌市　南区",
+      "rentPerSqm": 1049,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01107",
+      "prefName": "北海道",
+      "muniName": "札幌市　西区",
+      "rentPerSqm": 1189,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01108",
+      "prefName": "北海道",
+      "muniName": "札幌市　厚別区",
+      "rentPerSqm": 1102,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01109",
+      "prefName": "北海道",
+      "muniName": "札幌市　手稲区",
+      "rentPerSqm": 1133,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01110",
+      "prefName": "北海道",
+      "muniName": "札幌市　清田区",
+      "rentPerSqm": 1010,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01202",
+      "prefName": "北海道",
+      "muniName": "函館市",
+      "rentPerSqm": 965,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01203",
+      "prefName": "北海道",
+      "muniName": "小樽市",
+      "rentPerSqm": 1002,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01204",
+      "prefName": "北海道",
+      "muniName": "旭川市",
+      "rentPerSqm": 868,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01205",
+      "prefName": "北海道",
+      "muniName": "室蘭市",
+      "rentPerSqm": 1079,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01206",
+      "prefName": "北海道",
+      "muniName": "釧路市",
+      "rentPerSqm": 941,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01207",
+      "prefName": "北海道",
+      "muniName": "帯広市",
+      "rentPerSqm": 959,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01208",
+      "prefName": "北海道",
+      "muniName": "北見市",
+      "rentPerSqm": 919,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01209",
+      "prefName": "北海道",
+      "muniName": "夕張市",
+      "rentPerSqm": 750,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01210",
+      "prefName": "北海道",
+      "muniName": "岩見沢市",
+      "rentPerSqm": 866,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01211",
+      "prefName": "北海道",
+      "muniName": "網走市",
+      "rentPerSqm": 978,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01212",
+      "prefName": "北海道",
+      "muniName": "留萌市",
+      "rentPerSqm": 854,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01213",
+      "prefName": "北海道",
+      "muniName": "苫小牧市",
+      "rentPerSqm": 949,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01214",
+      "prefName": "北海道",
+      "muniName": "稚内市",
+      "rentPerSqm": 830,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01215",
+      "prefName": "北海道",
+      "muniName": "美唄市",
+      "rentPerSqm": 744,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01216",
+      "prefName": "北海道",
+      "muniName": "芦別市",
+      "rentPerSqm": 555,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01217",
+      "prefName": "北海道",
+      "muniName": "江別市",
+      "rentPerSqm": 960,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01218",
+      "prefName": "北海道",
+      "muniName": "赤平市",
+      "rentPerSqm": 564,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01219",
+      "prefName": "北海道",
+      "muniName": "紋別市",
+      "rentPerSqm": 635,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01220",
+      "prefName": "北海道",
+      "muniName": "士別市",
+      "rentPerSqm": 710,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01221",
+      "prefName": "北海道",
+      "muniName": "名寄市",
+      "rentPerSqm": 929,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01222",
+      "prefName": "北海道",
+      "muniName": "三笠市",
+      "rentPerSqm": 718,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01223",
+      "prefName": "北海道",
+      "muniName": "根室市",
+      "rentPerSqm": 736,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01224",
+      "prefName": "北海道",
+      "muniName": "千歳市",
+      "rentPerSqm": 1076,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01225",
+      "prefName": "北海道",
+      "muniName": "滝川市",
+      "rentPerSqm": 887,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01226",
+      "prefName": "北海道",
+      "muniName": "砂川市",
+      "rentPerSqm": 839,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01227",
+      "prefName": "北海道",
+      "muniName": "歌志内市",
+      "rentPerSqm": 247,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01228",
+      "prefName": "北海道",
+      "muniName": "深川市",
+      "rentPerSqm": 825,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01229",
+      "prefName": "北海道",
+      "muniName": "富良野市",
+      "rentPerSqm": 909,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01230",
+      "prefName": "北海道",
+      "muniName": "登別市",
+      "rentPerSqm": 834,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01231",
+      "prefName": "北海道",
+      "muniName": "恵庭市",
+      "rentPerSqm": 958,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01233",
+      "prefName": "北海道",
+      "muniName": "伊達市",
+      "rentPerSqm": 799,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01234",
+      "prefName": "北海道",
+      "muniName": "北広島市",
+      "rentPerSqm": 1037,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01235",
+      "prefName": "北海道",
+      "muniName": "石狩市",
+      "rentPerSqm": 930,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01236",
+      "prefName": "北海道",
+      "muniName": "北斗市",
+      "rentPerSqm": 829,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01303",
+      "prefName": "北海道",
+      "muniName": "当別町",
+      "rentPerSqm": 996,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01337",
+      "prefName": "北海道",
+      "muniName": "七飯町",
+      "rentPerSqm": 860,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01346",
+      "prefName": "北海道",
+      "muniName": "八雲町",
+      "rentPerSqm": 859,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01400",
+      "prefName": "北海道",
+      "muniName": "倶知安町",
+      "rentPerSqm": 1137,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01408",
+      "prefName": "北海道",
+      "muniName": "余市町",
+      "rentPerSqm": 692,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01543",
+      "prefName": "北海道",
+      "muniName": "美幌町",
+      "rentPerSqm": 796,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01555",
+      "prefName": "北海道",
+      "muniName": "遠軽町",
+      "rentPerSqm": 779,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01578",
+      "prefName": "北海道",
+      "muniName": "白老町",
+      "rentPerSqm": 619,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01610",
+      "prefName": "北海道",
+      "muniName": "新ひだか町",
+      "rentPerSqm": 888,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01631",
+      "prefName": "北海道",
+      "muniName": "音更町",
+      "rentPerSqm": 954,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01637",
+      "prefName": "北海道",
+      "muniName": "芽室町",
+      "rentPerSqm": 795,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01643",
+      "prefName": "北海道",
+      "muniName": "幕別町",
+      "rentPerSqm": 826,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01661",
+      "prefName": "北海道",
+      "muniName": "釧路町",
+      "rentPerSqm": 1086,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "01692",
+      "prefName": "北海道",
+      "muniName": "中標津町",
+      "rentPerSqm": 1032,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02201",
+      "prefName": "青森県",
+      "muniName": "青森市",
+      "rentPerSqm": 971,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02202",
+      "prefName": "青森県",
+      "muniName": "弘前市",
+      "rentPerSqm": 1065,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02203",
+      "prefName": "青森県",
+      "muniName": "八戸市",
+      "rentPerSqm": 969,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02204",
+      "prefName": "青森県",
+      "muniName": "黒石市",
+      "rentPerSqm": 704,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02205",
+      "prefName": "青森県",
+      "muniName": "五所川原市",
+      "rentPerSqm": 843,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02206",
+      "prefName": "青森県",
+      "muniName": "十和田市",
+      "rentPerSqm": 876,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02207",
+      "prefName": "青森県",
+      "muniName": "三沢市",
+      "rentPerSqm": 796,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02208",
+      "prefName": "青森県",
+      "muniName": "むつ市",
+      "rentPerSqm": 826,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02209",
+      "prefName": "青森県",
+      "muniName": "つがる市",
+      "rentPerSqm": 832,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02210",
+      "prefName": "青森県",
+      "muniName": "平川市",
+      "rentPerSqm": 740,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02408",
+      "prefName": "青森県",
+      "muniName": "東北町",
+      "rentPerSqm": 607,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02412",
+      "prefName": "青森県",
+      "muniName": "おいらせ町",
+      "rentPerSqm": 826,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02442",
+      "prefName": "青森県",
+      "muniName": "五戸町",
+      "rentPerSqm": 429,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "02445",
+      "prefName": "青森県",
+      "muniName": "南部町",
+      "rentPerSqm": 339,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03201",
+      "prefName": "岩手県",
+      "muniName": "盛岡市",
+      "rentPerSqm": 1184,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03202",
+      "prefName": "岩手県",
+      "muniName": "宮古市",
+      "rentPerSqm": 878,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03203",
+      "prefName": "岩手県",
+      "muniName": "大船渡市",
+      "rentPerSqm": 944,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03205",
+      "prefName": "岩手県",
+      "muniName": "花巻市",
+      "rentPerSqm": 894,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03206",
+      "prefName": "岩手県",
+      "muniName": "北上市",
+      "rentPerSqm": 1124,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03207",
+      "prefName": "岩手県",
+      "muniName": "久慈市",
+      "rentPerSqm": 679,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03208",
+      "prefName": "岩手県",
+      "muniName": "遠野市",
+      "rentPerSqm": 748,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03209",
+      "prefName": "岩手県",
+      "muniName": "一関市",
+      "rentPerSqm": 942,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03210",
+      "prefName": "岩手県",
+      "muniName": "陸前高田市",
+      "rentPerSqm": 875,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03211",
+      "prefName": "岩手県",
+      "muniName": "釜石市",
+      "rentPerSqm": 917,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03213",
+      "prefName": "岩手県",
+      "muniName": "二戸市",
+      "rentPerSqm": 905,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03214",
+      "prefName": "岩手県",
+      "muniName": "八幡平市",
+      "rentPerSqm": 815,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03215",
+      "prefName": "岩手県",
+      "muniName": "奥州市",
+      "rentPerSqm": 883,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03216",
+      "prefName": "岩手県",
+      "muniName": "滝沢市",
+      "rentPerSqm": 1037,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03301",
+      "prefName": "岩手県",
+      "muniName": "雫石町",
+      "rentPerSqm": 479,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03321",
+      "prefName": "岩手県",
+      "muniName": "紫波町",
+      "rentPerSqm": 1024,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03322",
+      "prefName": "岩手県",
+      "muniName": "矢巾町",
+      "rentPerSqm": 1242,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03381",
+      "prefName": "岩手県",
+      "muniName": "金ケ崎町",
+      "rentPerSqm": 931,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "03507",
+      "prefName": "岩手県",
+      "muniName": "洋野町",
+      "rentPerSqm": 777,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04100",
+      "prefName": "宮城県",
+      "muniName": "仙台市",
+      "rentPerSqm": 1461,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04101",
+      "prefName": "宮城県",
+      "muniName": "仙台市　青葉区",
+      "rentPerSqm": 1536,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04102",
+      "prefName": "宮城県",
+      "muniName": "仙台市　宮城野区",
+      "rentPerSqm": 1432,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04103",
+      "prefName": "宮城県",
+      "muniName": "仙台市　若林区",
+      "rentPerSqm": 1505,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04104",
+      "prefName": "宮城県",
+      "muniName": "仙台市　太白区",
+      "rentPerSqm": 1296,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04105",
+      "prefName": "宮城県",
+      "muniName": "仙台市　泉区",
+      "rentPerSqm": 1517,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04202",
+      "prefName": "宮城県",
+      "muniName": "石巻市",
+      "rentPerSqm": 993,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04203",
+      "prefName": "宮城県",
+      "muniName": "塩竈市",
+      "rentPerSqm": 1078,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04205",
+      "prefName": "宮城県",
+      "muniName": "気仙沼市",
+      "rentPerSqm": 921,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04206",
+      "prefName": "宮城県",
+      "muniName": "白石市",
+      "rentPerSqm": 947,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04207",
+      "prefName": "宮城県",
+      "muniName": "名取市",
+      "rentPerSqm": 1175,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04208",
+      "prefName": "宮城県",
+      "muniName": "角田市",
+      "rentPerSqm": 932,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04209",
+      "prefName": "宮城県",
+      "muniName": "多賀城市",
+      "rentPerSqm": 1178,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04211",
+      "prefName": "宮城県",
+      "muniName": "岩沼市",
+      "rentPerSqm": 1131,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04212",
+      "prefName": "宮城県",
+      "muniName": "登米市",
+      "rentPerSqm": 878,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04213",
+      "prefName": "宮城県",
+      "muniName": "栗原市",
+      "rentPerSqm": 850,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04214",
+      "prefName": "宮城県",
+      "muniName": "東松島市",
+      "rentPerSqm": 950,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04215",
+      "prefName": "宮城県",
+      "muniName": "大崎市",
+      "rentPerSqm": 950,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04216",
+      "prefName": "宮城県",
+      "muniName": "富谷市",
+      "rentPerSqm": 1122,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04321",
+      "prefName": "宮城県",
+      "muniName": "大河原町",
+      "rentPerSqm": 1021,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04323",
+      "prefName": "宮城県",
+      "muniName": "柴田町",
+      "rentPerSqm": 935,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04361",
+      "prefName": "宮城県",
+      "muniName": "亘理町",
+      "rentPerSqm": 815,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04404",
+      "prefName": "宮城県",
+      "muniName": "七ヶ浜町",
+      "rentPerSqm": 856,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04406",
+      "prefName": "宮城県",
+      "muniName": "利府町",
+      "rentPerSqm": 1071,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04421",
+      "prefName": "宮城県",
+      "muniName": "大和町",
+      "rentPerSqm": 1037,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04445",
+      "prefName": "宮城県",
+      "muniName": "加美町",
+      "rentPerSqm": 759,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04501",
+      "prefName": "宮城県",
+      "muniName": "涌谷町",
+      "rentPerSqm": 896,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "04505",
+      "prefName": "宮城県",
+      "muniName": "美里町",
+      "rentPerSqm": 828,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05201",
+      "prefName": "秋田県",
+      "muniName": "秋田市",
+      "rentPerSqm": 1081,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05202",
+      "prefName": "秋田県",
+      "muniName": "能代市",
+      "rentPerSqm": 799,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05203",
+      "prefName": "秋田県",
+      "muniName": "横手市",
+      "rentPerSqm": 972,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05204",
+      "prefName": "秋田県",
+      "muniName": "大館市",
+      "rentPerSqm": 1013,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05206",
+      "prefName": "秋田県",
+      "muniName": "男鹿市",
+      "rentPerSqm": 678,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05207",
+      "prefName": "秋田県",
+      "muniName": "湯沢市",
+      "rentPerSqm": 773,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05209",
+      "prefName": "秋田県",
+      "muniName": "鹿角市",
+      "rentPerSqm": 747,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05210",
+      "prefName": "秋田県",
+      "muniName": "由利本荘市",
+      "rentPerSqm": 859,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05211",
+      "prefName": "秋田県",
+      "muniName": "潟上市",
+      "rentPerSqm": 941,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05212",
+      "prefName": "秋田県",
+      "muniName": "大仙市",
+      "rentPerSqm": 901,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05213",
+      "prefName": "秋田県",
+      "muniName": "北秋田市",
+      "rentPerSqm": 706,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05214",
+      "prefName": "秋田県",
+      "muniName": "にかほ市",
+      "rentPerSqm": 700,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05215",
+      "prefName": "秋田県",
+      "muniName": "仙北市",
+      "rentPerSqm": 614,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05348",
+      "prefName": "秋田県",
+      "muniName": "三種町",
+      "rentPerSqm": 419,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "05434",
+      "prefName": "秋田県",
+      "muniName": "美郷町",
+      "rentPerSqm": 1072,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06201",
+      "prefName": "山形県",
+      "muniName": "山形市",
+      "rentPerSqm": 1220,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06202",
+      "prefName": "山形県",
+      "muniName": "米沢市",
+      "rentPerSqm": 1039,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06203",
+      "prefName": "山形県",
+      "muniName": "鶴岡市",
+      "rentPerSqm": 925,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06204",
+      "prefName": "山形県",
+      "muniName": "酒田市",
+      "rentPerSqm": 946,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06205",
+      "prefName": "山形県",
+      "muniName": "新庄市",
+      "rentPerSqm": 988,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06206",
+      "prefName": "山形県",
+      "muniName": "寒河江市",
+      "rentPerSqm": 1026,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06207",
+      "prefName": "山形県",
+      "muniName": "上山市",
+      "rentPerSqm": 914,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06208",
+      "prefName": "山形県",
+      "muniName": "村山市",
+      "rentPerSqm": 811,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06209",
+      "prefName": "山形県",
+      "muniName": "長井市",
+      "rentPerSqm": 820,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06210",
+      "prefName": "山形県",
+      "muniName": "天童市",
+      "rentPerSqm": 1046,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06211",
+      "prefName": "山形県",
+      "muniName": "東根市",
+      "rentPerSqm": 984,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06212",
+      "prefName": "山形県",
+      "muniName": "尾花沢市",
+      "rentPerSqm": 754,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06213",
+      "prefName": "山形県",
+      "muniName": "南陽市",
+      "rentPerSqm": 869,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06321",
+      "prefName": "山形県",
+      "muniName": "河北町",
+      "rentPerSqm": 951,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06381",
+      "prefName": "山形県",
+      "muniName": "高畠町",
+      "rentPerSqm": 688,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "06428",
+      "prefName": "山形県",
+      "muniName": "庄内町",
+      "rentPerSqm": 707,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07201",
+      "prefName": "福島県",
+      "muniName": "福島市",
+      "rentPerSqm": 1137,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07202",
+      "prefName": "福島県",
+      "muniName": "会津若松市",
+      "rentPerSqm": 994,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07203",
+      "prefName": "福島県",
+      "muniName": "郡山市",
+      "rentPerSqm": 1222,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07204",
+      "prefName": "福島県",
+      "muniName": "いわき市",
+      "rentPerSqm": 1072,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07205",
+      "prefName": "福島県",
+      "muniName": "白河市",
+      "rentPerSqm": 1095,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07207",
+      "prefName": "福島県",
+      "muniName": "須賀川市",
+      "rentPerSqm": 1136,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07208",
+      "prefName": "福島県",
+      "muniName": "喜多方市",
+      "rentPerSqm": 812,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07209",
+      "prefName": "福島県",
+      "muniName": "相馬市",
+      "rentPerSqm": 1005,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07210",
+      "prefName": "福島県",
+      "muniName": "二本松市",
+      "rentPerSqm": 984,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07211",
+      "prefName": "福島県",
+      "muniName": "田村市",
+      "rentPerSqm": 1125,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07212",
+      "prefName": "福島県",
+      "muniName": "南相馬市",
+      "rentPerSqm": 1022,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07213",
+      "prefName": "福島県",
+      "muniName": "伊達市",
+      "rentPerSqm": 927,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07214",
+      "prefName": "福島県",
+      "muniName": "本宮市",
+      "rentPerSqm": 1000,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07421",
+      "prefName": "福島県",
+      "muniName": "会津坂下町",
+      "rentPerSqm": 738,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07447",
+      "prefName": "福島県",
+      "muniName": "会津美里町",
+      "rentPerSqm": 907,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07461",
+      "prefName": "福島県",
+      "muniName": "西郷村",
+      "rentPerSqm": 1170,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07466",
+      "prefName": "福島県",
+      "muniName": "矢吹町",
+      "rentPerSqm": 930,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "07521",
+      "prefName": "福島県",
+      "muniName": "三春町",
+      "rentPerSqm": 779,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08201",
+      "prefName": "茨城県",
+      "muniName": "水戸市",
+      "rentPerSqm": 1211,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08202",
+      "prefName": "茨城県",
+      "muniName": "日立市",
+      "rentPerSqm": 1081,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08203",
+      "prefName": "茨城県",
+      "muniName": "土浦市",
+      "rentPerSqm": 1140,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08204",
+      "prefName": "茨城県",
+      "muniName": "古河市",
+      "rentPerSqm": 1018,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08205",
+      "prefName": "茨城県",
+      "muniName": "石岡市",
+      "rentPerSqm": 986,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08207",
+      "prefName": "茨城県",
+      "muniName": "結城市",
+      "rentPerSqm": 980,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08208",
+      "prefName": "茨城県",
+      "muniName": "龍ケ崎市",
+      "rentPerSqm": 1030,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08210",
+      "prefName": "茨城県",
+      "muniName": "下妻市",
+      "rentPerSqm": 1016,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08211",
+      "prefName": "茨城県",
+      "muniName": "常総市",
+      "rentPerSqm": 893,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08212",
+      "prefName": "茨城県",
+      "muniName": "常陸太田市",
+      "rentPerSqm": 842,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08214",
+      "prefName": "茨城県",
+      "muniName": "高萩市",
+      "rentPerSqm": 994,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08215",
+      "prefName": "茨城県",
+      "muniName": "北茨城市",
+      "rentPerSqm": 864,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08216",
+      "prefName": "茨城県",
+      "muniName": "笠間市",
+      "rentPerSqm": 891,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08217",
+      "prefName": "茨城県",
+      "muniName": "取手市",
+      "rentPerSqm": 1115,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08219",
+      "prefName": "茨城県",
+      "muniName": "牛久市",
+      "rentPerSqm": 1223,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08220",
+      "prefName": "茨城県",
+      "muniName": "つくば市",
+      "rentPerSqm": 1383,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08221",
+      "prefName": "茨城県",
+      "muniName": "ひたちなか市",
+      "rentPerSqm": 1185,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08222",
+      "prefName": "茨城県",
+      "muniName": "鹿嶋市",
+      "rentPerSqm": 1045,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08223",
+      "prefName": "茨城県",
+      "muniName": "潮来市",
+      "rentPerSqm": 980,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08224",
+      "prefName": "茨城県",
+      "muniName": "守谷市",
+      "rentPerSqm": 1266,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08225",
+      "prefName": "茨城県",
+      "muniName": "常陸大宮市",
+      "rentPerSqm": 864,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08226",
+      "prefName": "茨城県",
+      "muniName": "那珂市",
+      "rentPerSqm": 1099,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08227",
+      "prefName": "茨城県",
+      "muniName": "筑西市",
+      "rentPerSqm": 1006,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08228",
+      "prefName": "茨城県",
+      "muniName": "坂東市",
+      "rentPerSqm": 866,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08229",
+      "prefName": "茨城県",
+      "muniName": "稲敷市",
+      "rentPerSqm": 641,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08230",
+      "prefName": "茨城県",
+      "muniName": "かすみがうら市",
+      "rentPerSqm": 944,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08231",
+      "prefName": "茨城県",
+      "muniName": "桜川市",
+      "rentPerSqm": 838,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08232",
+      "prefName": "茨城県",
+      "muniName": "神栖市",
+      "rentPerSqm": 1039,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08233",
+      "prefName": "茨城県",
+      "muniName": "行方市",
+      "rentPerSqm": 824,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08234",
+      "prefName": "茨城県",
+      "muniName": "鉾田市",
+      "rentPerSqm": 934,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08235",
+      "prefName": "茨城県",
+      "muniName": "つくばみらい市",
+      "rentPerSqm": 1249,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08236",
+      "prefName": "茨城県",
+      "muniName": "小美玉市",
+      "rentPerSqm": 906,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08302",
+      "prefName": "茨城県",
+      "muniName": "茨城町",
+      "rentPerSqm": 976,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08309",
+      "prefName": "茨城県",
+      "muniName": "大洗町",
+      "rentPerSqm": 727,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08310",
+      "prefName": "茨城県",
+      "muniName": "城里町",
+      "rentPerSqm": 625,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08341",
+      "prefName": "茨城県",
+      "muniName": "東海村",
+      "rentPerSqm": 1114,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08364",
+      "prefName": "茨城県",
+      "muniName": "大子町",
+      "rentPerSqm": 608,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08443",
+      "prefName": "茨城県",
+      "muniName": "阿見町",
+      "rentPerSqm": 1073,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08521",
+      "prefName": "茨城県",
+      "muniName": "八千代町",
+      "rentPerSqm": 980,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08546",
+      "prefName": "茨城県",
+      "muniName": "境町",
+      "rentPerSqm": 1016,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "08564",
+      "prefName": "茨城県",
+      "muniName": "利根町",
+      "rentPerSqm": 630,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09201",
+      "prefName": "栃木県",
+      "muniName": "宇都宮市",
+      "rentPerSqm": 1249,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09202",
+      "prefName": "栃木県",
+      "muniName": "足利市",
+      "rentPerSqm": 929,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09203",
+      "prefName": "栃木県",
+      "muniName": "栃木市",
+      "rentPerSqm": 1018,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09204",
+      "prefName": "栃木県",
+      "muniName": "佐野市",
+      "rentPerSqm": 952,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09205",
+      "prefName": "栃木県",
+      "muniName": "鹿沼市",
+      "rentPerSqm": 995,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09206",
+      "prefName": "栃木県",
+      "muniName": "日光市",
+      "rentPerSqm": 923,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09208",
+      "prefName": "栃木県",
+      "muniName": "小山市",
+      "rentPerSqm": 1159,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09209",
+      "prefName": "栃木県",
+      "muniName": "真岡市",
+      "rentPerSqm": 1031,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09210",
+      "prefName": "栃木県",
+      "muniName": "大田原市",
+      "rentPerSqm": 974,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09211",
+      "prefName": "栃木県",
+      "muniName": "矢板市",
+      "rentPerSqm": 936,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09213",
+      "prefName": "栃木県",
+      "muniName": "那須塩原市",
+      "rentPerSqm": 990,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09214",
+      "prefName": "栃木県",
+      "muniName": "さくら市",
+      "rentPerSqm": 1053,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09215",
+      "prefName": "栃木県",
+      "muniName": "那須烏山市",
+      "rentPerSqm": 608,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09216",
+      "prefName": "栃木県",
+      "muniName": "下野市",
+      "rentPerSqm": 1146,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09301",
+      "prefName": "栃木県",
+      "muniName": "上三川町",
+      "rentPerSqm": 928,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09342",
+      "prefName": "栃木県",
+      "muniName": "益子町",
+      "rentPerSqm": 859,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09361",
+      "prefName": "栃木県",
+      "muniName": "壬生町",
+      "rentPerSqm": 1041,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09364",
+      "prefName": "栃木県",
+      "muniName": "野木町",
+      "rentPerSqm": 1102,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09386",
+      "prefName": "栃木県",
+      "muniName": "高根沢町",
+      "rentPerSqm": 1073,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09407",
+      "prefName": "栃木県",
+      "muniName": "那須町",
+      "rentPerSqm": 270,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "09411",
+      "prefName": "栃木県",
+      "muniName": "那珂川町",
+      "rentPerSqm": 891,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10201",
+      "prefName": "群馬県",
+      "muniName": "前橋市",
+      "rentPerSqm": 1081,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10202",
+      "prefName": "群馬県",
+      "muniName": "高崎市",
+      "rentPerSqm": 1164,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10203",
+      "prefName": "群馬県",
+      "muniName": "桐生市",
+      "rentPerSqm": 931,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10204",
+      "prefName": "群馬県",
+      "muniName": "伊勢崎市",
+      "rentPerSqm": 1021,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10205",
+      "prefName": "群馬県",
+      "muniName": "太田市",
+      "rentPerSqm": 1059,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10206",
+      "prefName": "群馬県",
+      "muniName": "沼田市",
+      "rentPerSqm": 872,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10207",
+      "prefName": "群馬県",
+      "muniName": "館林市",
+      "rentPerSqm": 1036,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10208",
+      "prefName": "群馬県",
+      "muniName": "渋川市",
+      "rentPerSqm": 798,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10209",
+      "prefName": "群馬県",
+      "muniName": "藤岡市",
+      "rentPerSqm": 865,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10210",
+      "prefName": "群馬県",
+      "muniName": "富岡市",
+      "rentPerSqm": 958,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10211",
+      "prefName": "群馬県",
+      "muniName": "安中市",
+      "rentPerSqm": 860,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10212",
+      "prefName": "群馬県",
+      "muniName": "みどり市",
+      "rentPerSqm": 901,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10345",
+      "prefName": "群馬県",
+      "muniName": "吉岡町",
+      "rentPerSqm": 1130,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10421",
+      "prefName": "群馬県",
+      "muniName": "中之条町",
+      "rentPerSqm": 911,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10449",
+      "prefName": "群馬県",
+      "muniName": "みなかみ町",
+      "rentPerSqm": 4036,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10464",
+      "prefName": "群馬県",
+      "muniName": "玉村町",
+      "rentPerSqm": 1312,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10524",
+      "prefName": "群馬県",
+      "muniName": "大泉町",
+      "rentPerSqm": 1067,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "10525",
+      "prefName": "群馬県",
+      "muniName": "邑楽町",
+      "rentPerSqm": 1138,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11100",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市",
+      "rentPerSqm": 1681,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11101",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　西区",
+      "rentPerSqm": 1461,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11102",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　北区",
+      "rentPerSqm": 1611,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11103",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　大宮区",
+      "rentPerSqm": 1798,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11104",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　見沼区",
+      "rentPerSqm": 1415,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11105",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　中央区",
+      "rentPerSqm": 1874,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11106",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　桜区",
+      "rentPerSqm": 1671,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11107",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　浦和区",
+      "rentPerSqm": 2054,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11108",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　南区",
+      "rentPerSqm": 1806,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11109",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　緑区",
+      "rentPerSqm": 1432,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11110",
+      "prefName": "埼玉県",
+      "muniName": "さいたま市　岩槻区",
+      "rentPerSqm": 1288,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11201",
+      "prefName": "埼玉県",
+      "muniName": "川越市",
+      "rentPerSqm": 1464,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11202",
+      "prefName": "埼玉県",
+      "muniName": "熊谷市",
+      "rentPerSqm": 1093,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11203",
+      "prefName": "埼玉県",
+      "muniName": "川口市",
+      "rentPerSqm": 1792,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11206",
+      "prefName": "埼玉県",
+      "muniName": "行田市",
+      "rentPerSqm": 1090,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11207",
+      "prefName": "埼玉県",
+      "muniName": "秩父市",
+      "rentPerSqm": 1029,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11208",
+      "prefName": "埼玉県",
+      "muniName": "所沢市",
+      "rentPerSqm": 1568,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11209",
+      "prefName": "埼玉県",
+      "muniName": "飯能市",
+      "rentPerSqm": 1324,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11210",
+      "prefName": "埼玉県",
+      "muniName": "加須市",
+      "rentPerSqm": 1150,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11211",
+      "prefName": "埼玉県",
+      "muniName": "本庄市",
+      "rentPerSqm": 1087,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11212",
+      "prefName": "埼玉県",
+      "muniName": "東松山市",
+      "rentPerSqm": 1274,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11214",
+      "prefName": "埼玉県",
+      "muniName": "春日部市",
+      "rentPerSqm": 1211,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11215",
+      "prefName": "埼玉県",
+      "muniName": "狭山市",
+      "rentPerSqm": 1281,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11216",
+      "prefName": "埼玉県",
+      "muniName": "羽生市",
+      "rentPerSqm": 1110,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11217",
+      "prefName": "埼玉県",
+      "muniName": "鴻巣市",
+      "rentPerSqm": 1143,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11218",
+      "prefName": "埼玉県",
+      "muniName": "深谷市",
+      "rentPerSqm": 1053,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11219",
+      "prefName": "埼玉県",
+      "muniName": "上尾市",
+      "rentPerSqm": 1270,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11221",
+      "prefName": "埼玉県",
+      "muniName": "草加市",
+      "rentPerSqm": 1615,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11222",
+      "prefName": "埼玉県",
+      "muniName": "越谷市",
+      "rentPerSqm": 1466,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11223",
+      "prefName": "埼玉県",
+      "muniName": "蕨市",
+      "rentPerSqm": 1838,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11224",
+      "prefName": "埼玉県",
+      "muniName": "戸田市",
+      "rentPerSqm": 1830,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11225",
+      "prefName": "埼玉県",
+      "muniName": "入間市",
+      "rentPerSqm": 1284,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11227",
+      "prefName": "埼玉県",
+      "muniName": "朝霞市",
+      "rentPerSqm": 1783,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11228",
+      "prefName": "埼玉県",
+      "muniName": "志木市",
+      "rentPerSqm": 1567,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11229",
+      "prefName": "埼玉県",
+      "muniName": "和光市",
+      "rentPerSqm": 2010,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11230",
+      "prefName": "埼玉県",
+      "muniName": "新座市",
+      "rentPerSqm": 1660,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11231",
+      "prefName": "埼玉県",
+      "muniName": "桶川市",
+      "rentPerSqm": 1134,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11232",
+      "prefName": "埼玉県",
+      "muniName": "久喜市",
+      "rentPerSqm": 1228,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11233",
+      "prefName": "埼玉県",
+      "muniName": "北本市",
+      "rentPerSqm": 1209,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11234",
+      "prefName": "埼玉県",
+      "muniName": "八潮市",
+      "rentPerSqm": 1755,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11235",
+      "prefName": "埼玉県",
+      "muniName": "富士見市",
+      "rentPerSqm": 1603,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11237",
+      "prefName": "埼玉県",
+      "muniName": "三郷市",
+      "rentPerSqm": 1441,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11238",
+      "prefName": "埼玉県",
+      "muniName": "蓮田市",
+      "rentPerSqm": 1178,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11239",
+      "prefName": "埼玉県",
+      "muniName": "坂戸市",
+      "rentPerSqm": 1358,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11240",
+      "prefName": "埼玉県",
+      "muniName": "幸手市",
+      "rentPerSqm": 1051,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11241",
+      "prefName": "埼玉県",
+      "muniName": "鶴ヶ島市",
+      "rentPerSqm": 1434,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11242",
+      "prefName": "埼玉県",
+      "muniName": "日高市",
+      "rentPerSqm": 1203,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11243",
+      "prefName": "埼玉県",
+      "muniName": "吉川市",
+      "rentPerSqm": 1505,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11245",
+      "prefName": "埼玉県",
+      "muniName": "ふじみ野市",
+      "rentPerSqm": 1519,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11246",
+      "prefName": "埼玉県",
+      "muniName": "白岡市",
+      "rentPerSqm": 1285,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11301",
+      "prefName": "埼玉県",
+      "muniName": "伊奈町",
+      "rentPerSqm": 1345,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11324",
+      "prefName": "埼玉県",
+      "muniName": "三芳町",
+      "rentPerSqm": 1432,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11326",
+      "prefName": "埼玉県",
+      "muniName": "毛呂山町",
+      "rentPerSqm": 1337,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11341",
+      "prefName": "埼玉県",
+      "muniName": "滑川町",
+      "rentPerSqm": 1243,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11342",
+      "prefName": "埼玉県",
+      "muniName": "嵐山町",
+      "rentPerSqm": 1097,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11343",
+      "prefName": "埼玉県",
+      "muniName": "小川町",
+      "rentPerSqm": 1023,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11346",
+      "prefName": "埼玉県",
+      "muniName": "川島町",
+      "rentPerSqm": 966,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11347",
+      "prefName": "埼玉県",
+      "muniName": "吉見町",
+      "rentPerSqm": 827,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11385",
+      "prefName": "埼玉県",
+      "muniName": "上里町",
+      "rentPerSqm": 896,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11408",
+      "prefName": "埼玉県",
+      "muniName": "寄居町",
+      "rentPerSqm": 772,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11442",
+      "prefName": "埼玉県",
+      "muniName": "宮代町",
+      "rentPerSqm": 1298,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11464",
+      "prefName": "埼玉県",
+      "muniName": "杉戸町",
+      "rentPerSqm": 876,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "11465",
+      "prefName": "埼玉県",
+      "muniName": "松伏町",
+      "rentPerSqm": 1139,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12100",
+      "prefName": "千葉県",
+      "muniName": "千葉市",
+      "rentPerSqm": 1530,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12101",
+      "prefName": "千葉県",
+      "muniName": "千葉市　中央区",
+      "rentPerSqm": 1719,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12102",
+      "prefName": "千葉県",
+      "muniName": "千葉市　花見川区",
+      "rentPerSqm": 1591,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12103",
+      "prefName": "千葉県",
+      "muniName": "千葉市　稲毛区",
+      "rentPerSqm": 1437,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12104",
+      "prefName": "千葉県",
+      "muniName": "千葉市　若葉区",
+      "rentPerSqm": 1277,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12105",
+      "prefName": "千葉県",
+      "muniName": "千葉市　緑区",
+      "rentPerSqm": 1242,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12106",
+      "prefName": "千葉県",
+      "muniName": "千葉市　美浜区",
+      "rentPerSqm": 1674,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12202",
+      "prefName": "千葉県",
+      "muniName": "銚子市",
+      "rentPerSqm": 1054,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12203",
+      "prefName": "千葉県",
+      "muniName": "市川市",
+      "rentPerSqm": 1867,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12204",
+      "prefName": "千葉県",
+      "muniName": "船橋市",
+      "rentPerSqm": 1836,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12205",
+      "prefName": "千葉県",
+      "muniName": "館山市",
+      "rentPerSqm": 1020,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12206",
+      "prefName": "千葉県",
+      "muniName": "木更津市",
+      "rentPerSqm": 1059,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12207",
+      "prefName": "千葉県",
+      "muniName": "松戸市",
+      "rentPerSqm": 1509,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12208",
+      "prefName": "千葉県",
+      "muniName": "野田市",
+      "rentPerSqm": 1156,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12210",
+      "prefName": "千葉県",
+      "muniName": "茂原市",
+      "rentPerSqm": 969,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12211",
+      "prefName": "千葉県",
+      "muniName": "成田市",
+      "rentPerSqm": 1478,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12212",
+      "prefName": "千葉県",
+      "muniName": "佐倉市",
+      "rentPerSqm": 1212,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12213",
+      "prefName": "千葉県",
+      "muniName": "東金市",
+      "rentPerSqm": 1108,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12215",
+      "prefName": "千葉県",
+      "muniName": "旭市",
+      "rentPerSqm": 1092,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12216",
+      "prefName": "千葉県",
+      "muniName": "習志野市",
+      "rentPerSqm": 1669,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12217",
+      "prefName": "千葉県",
+      "muniName": "柏市",
+      "rentPerSqm": 1573,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12218",
+      "prefName": "千葉県",
+      "muniName": "勝浦市",
+      "rentPerSqm": 1176,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12219",
+      "prefName": "千葉県",
+      "muniName": "市原市",
+      "rentPerSqm": 1169,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12220",
+      "prefName": "千葉県",
+      "muniName": "流山市",
+      "rentPerSqm": 1686,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12221",
+      "prefName": "千葉県",
+      "muniName": "八千代市",
+      "rentPerSqm": 1341,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12222",
+      "prefName": "千葉県",
+      "muniName": "我孫子市",
+      "rentPerSqm": 1289,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12223",
+      "prefName": "千葉県",
+      "muniName": "鴨川市",
+      "rentPerSqm": 1211,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12224",
+      "prefName": "千葉県",
+      "muniName": "鎌ケ谷市",
+      "rentPerSqm": 1317,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12225",
+      "prefName": "千葉県",
+      "muniName": "君津市",
+      "rentPerSqm": 1156,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12226",
+      "prefName": "千葉県",
+      "muniName": "富津市",
+      "rentPerSqm": 954,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12227",
+      "prefName": "千葉県",
+      "muniName": "浦安市",
+      "rentPerSqm": 2174,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12228",
+      "prefName": "千葉県",
+      "muniName": "四街道市",
+      "rentPerSqm": 1214,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12229",
+      "prefName": "千葉県",
+      "muniName": "袖ケ浦市",
+      "rentPerSqm": 1156,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12230",
+      "prefName": "千葉県",
+      "muniName": "八街市",
+      "rentPerSqm": 889,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12231",
+      "prefName": "千葉県",
+      "muniName": "印西市",
+      "rentPerSqm": 1068,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12232",
+      "prefName": "千葉県",
+      "muniName": "白井市",
+      "rentPerSqm": 1373,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12233",
+      "prefName": "千葉県",
+      "muniName": "富里市",
+      "rentPerSqm": 1198,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12234",
+      "prefName": "千葉県",
+      "muniName": "南房総市",
+      "rentPerSqm": 773,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12235",
+      "prefName": "千葉県",
+      "muniName": "匝瑳市",
+      "rentPerSqm": 913,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12236",
+      "prefName": "千葉県",
+      "muniName": "香取市",
+      "rentPerSqm": 1012,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12237",
+      "prefName": "千葉県",
+      "muniName": "山武市",
+      "rentPerSqm": 725,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12238",
+      "prefName": "千葉県",
+      "muniName": "いすみ市",
+      "rentPerSqm": 781,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12239",
+      "prefName": "千葉県",
+      "muniName": "大網白里市",
+      "rentPerSqm": 1055,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12322",
+      "prefName": "千葉県",
+      "muniName": "酒々井町",
+      "rentPerSqm": 1198,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12329",
+      "prefName": "千葉県",
+      "muniName": "栄町",
+      "rentPerSqm": 1024,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "12410",
+      "prefName": "千葉県",
+      "muniName": "横芝光町",
+      "rentPerSqm": 858,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13101",
+      "prefName": "東京都",
+      "muniName": "千代田区",
+      "rentPerSqm": 3807,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13102",
+      "prefName": "東京都",
+      "muniName": "中央区",
+      "rentPerSqm": 3698,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13103",
+      "prefName": "東京都",
+      "muniName": "港区",
+      "rentPerSqm": 4504,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13104",
+      "prefName": "東京都",
+      "muniName": "新宿区",
+      "rentPerSqm": 3486,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13105",
+      "prefName": "東京都",
+      "muniName": "文京区",
+      "rentPerSqm": 3200,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13106",
+      "prefName": "東京都",
+      "muniName": "台東区",
+      "rentPerSqm": 2943,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13107",
+      "prefName": "東京都",
+      "muniName": "墨田区",
+      "rentPerSqm": 2810,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13108",
+      "prefName": "東京都",
+      "muniName": "江東区",
+      "rentPerSqm": 2881,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13109",
+      "prefName": "東京都",
+      "muniName": "品川区",
+      "rentPerSqm": 3109,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13110",
+      "prefName": "東京都",
+      "muniName": "目黒区",
+      "rentPerSqm": 3298,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13111",
+      "prefName": "東京都",
+      "muniName": "大田区",
+      "rentPerSqm": 2513,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13112",
+      "prefName": "東京都",
+      "muniName": "世田谷区",
+      "rentPerSqm": 2672,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13113",
+      "prefName": "東京都",
+      "muniName": "渋谷区",
+      "rentPerSqm": 3622,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13114",
+      "prefName": "東京都",
+      "muniName": "中野区",
+      "rentPerSqm": 2775,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13115",
+      "prefName": "東京都",
+      "muniName": "杉並区",
+      "rentPerSqm": 2662,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13116",
+      "prefName": "東京都",
+      "muniName": "豊島区",
+      "rentPerSqm": 2864,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13117",
+      "prefName": "東京都",
+      "muniName": "北区",
+      "rentPerSqm": 2557,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13118",
+      "prefName": "東京都",
+      "muniName": "荒川区",
+      "rentPerSqm": 2510,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13119",
+      "prefName": "東京都",
+      "muniName": "板橋区",
+      "rentPerSqm": 2328,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13120",
+      "prefName": "東京都",
+      "muniName": "練馬区",
+      "rentPerSqm": 2236,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13121",
+      "prefName": "東京都",
+      "muniName": "足立区",
+      "rentPerSqm": 2073,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13122",
+      "prefName": "東京都",
+      "muniName": "葛飾区",
+      "rentPerSqm": 1930,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13123",
+      "prefName": "東京都",
+      "muniName": "江戸川区",
+      "rentPerSqm": 2042,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13201",
+      "prefName": "東京都",
+      "muniName": "八王子市",
+      "rentPerSqm": 1670,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13202",
+      "prefName": "東京都",
+      "muniName": "立川市",
+      "rentPerSqm": 1887,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13203",
+      "prefName": "東京都",
+      "muniName": "武蔵野市",
+      "rentPerSqm": 2664,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13204",
+      "prefName": "東京都",
+      "muniName": "三鷹市",
+      "rentPerSqm": 2298,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13205",
+      "prefName": "東京都",
+      "muniName": "青梅市",
+      "rentPerSqm": 1342,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13206",
+      "prefName": "東京都",
+      "muniName": "府中市",
+      "rentPerSqm": 2109,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13207",
+      "prefName": "東京都",
+      "muniName": "昭島市",
+      "rentPerSqm": 1574,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13208",
+      "prefName": "東京都",
+      "muniName": "調布市",
+      "rentPerSqm": 2323,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13209",
+      "prefName": "東京都",
+      "muniName": "町田市",
+      "rentPerSqm": 1676,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13210",
+      "prefName": "東京都",
+      "muniName": "小金井市",
+      "rentPerSqm": 2189,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13211",
+      "prefName": "東京都",
+      "muniName": "小平市",
+      "rentPerSqm": 1830,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13212",
+      "prefName": "東京都",
+      "muniName": "日野市",
+      "rentPerSqm": 1724,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13213",
+      "prefName": "東京都",
+      "muniName": "東村山市",
+      "rentPerSqm": 1695,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13214",
+      "prefName": "東京都",
+      "muniName": "国分寺市",
+      "rentPerSqm": 2037,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13215",
+      "prefName": "東京都",
+      "muniName": "国立市",
+      "rentPerSqm": 1999,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13218",
+      "prefName": "東京都",
+      "muniName": "福生市",
+      "rentPerSqm": 1409,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13219",
+      "prefName": "東京都",
+      "muniName": "狛江市",
+      "rentPerSqm": 2188,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13220",
+      "prefName": "東京都",
+      "muniName": "東大和市",
+      "rentPerSqm": 1403,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13221",
+      "prefName": "東京都",
+      "muniName": "清瀬市",
+      "rentPerSqm": 1575,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13222",
+      "prefName": "東京都",
+      "muniName": "東久留米市",
+      "rentPerSqm": 1643,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13223",
+      "prefName": "東京都",
+      "muniName": "武蔵村山市",
+      "rentPerSqm": 1364,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13224",
+      "prefName": "東京都",
+      "muniName": "多摩市",
+      "rentPerSqm": 1800,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13225",
+      "prefName": "東京都",
+      "muniName": "稲城市",
+      "rentPerSqm": 1818,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13227",
+      "prefName": "東京都",
+      "muniName": "羽村市",
+      "rentPerSqm": 1426,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13228",
+      "prefName": "東京都",
+      "muniName": "あきる野市",
+      "rentPerSqm": 1273,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13229",
+      "prefName": "東京都",
+      "muniName": "西東京市",
+      "rentPerSqm": 1962,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13303",
+      "prefName": "東京都",
+      "muniName": "瑞穂町",
+      "rentPerSqm": 1620,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "13305",
+      "prefName": "東京都",
+      "muniName": "日の出町",
+      "rentPerSqm": 1365,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14100",
+      "prefName": "神奈川県",
+      "muniName": "横浜市",
+      "rentPerSqm": 1995,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14101",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　鶴見区",
+      "rentPerSqm": 2138,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14102",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　神奈川区",
+      "rentPerSqm": 2217,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14103",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　西区",
+      "rentPerSqm": 2524,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14104",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　中区",
+      "rentPerSqm": 2654,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14105",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　南区",
+      "rentPerSqm": 2015,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14106",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　保土ケ谷区",
+      "rentPerSqm": 1957,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14107",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　磯子区",
+      "rentPerSqm": 1760,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14108",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　金沢区",
+      "rentPerSqm": 1711,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14109",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　港北区",
+      "rentPerSqm": 2251,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14110",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　戸塚区",
+      "rentPerSqm": 1807,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14111",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　港南区",
+      "rentPerSqm": 1820,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14112",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　旭区",
+      "rentPerSqm": 1671,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14113",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　緑区",
+      "rentPerSqm": 1761,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14114",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　瀬谷区",
+      "rentPerSqm": 1475,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14115",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　栄区",
+      "rentPerSqm": 1786,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14116",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　泉区",
+      "rentPerSqm": 1581,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14117",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　青葉区",
+      "rentPerSqm": 1844,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14118",
+      "prefName": "神奈川県",
+      "muniName": "横浜市　都筑区",
+      "rentPerSqm": 1885,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14130",
+      "prefName": "神奈川県",
+      "muniName": "川崎市",
+      "rentPerSqm": 2189,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14131",
+      "prefName": "神奈川県",
+      "muniName": "川崎市　川崎区",
+      "rentPerSqm": 2296,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14132",
+      "prefName": "神奈川県",
+      "muniName": "川崎市　幸区",
+      "rentPerSqm": 2380,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14133",
+      "prefName": "神奈川県",
+      "muniName": "川崎市　中原区",
+      "rentPerSqm": 2516,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14134",
+      "prefName": "神奈川県",
+      "muniName": "川崎市　高津区",
+      "rentPerSqm": 2318,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14135",
+      "prefName": "神奈川県",
+      "muniName": "川崎市　多摩区",
+      "rentPerSqm": 1934,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14136",
+      "prefName": "神奈川県",
+      "muniName": "川崎市　宮前区",
+      "rentPerSqm": 1889,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14137",
+      "prefName": "神奈川県",
+      "muniName": "川崎市　麻生区",
+      "rentPerSqm": 1812,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14150",
+      "prefName": "神奈川県",
+      "muniName": "相模原市",
+      "rentPerSqm": 1596,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14151",
+      "prefName": "神奈川県",
+      "muniName": "相模原市　緑区",
+      "rentPerSqm": 1443,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14152",
+      "prefName": "神奈川県",
+      "muniName": "相模原市　中央区",
+      "rentPerSqm": 1604,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14153",
+      "prefName": "神奈川県",
+      "muniName": "相模原市　南区",
+      "rentPerSqm": 1649,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14201",
+      "prefName": "神奈川県",
+      "muniName": "横須賀市",
+      "rentPerSqm": 1421,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14203",
+      "prefName": "神奈川県",
+      "muniName": "平塚市",
+      "rentPerSqm": 1450,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14204",
+      "prefName": "神奈川県",
+      "muniName": "鎌倉市",
+      "rentPerSqm": 1885,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14205",
+      "prefName": "神奈川県",
+      "muniName": "藤沢市",
+      "rentPerSqm": 1804,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14206",
+      "prefName": "神奈川県",
+      "muniName": "小田原市",
+      "rentPerSqm": 1275,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14207",
+      "prefName": "神奈川県",
+      "muniName": "茅ヶ崎市",
+      "rentPerSqm": 1557,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14208",
+      "prefName": "神奈川県",
+      "muniName": "逗子市",
+      "rentPerSqm": 1690,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14210",
+      "prefName": "神奈川県",
+      "muniName": "三浦市",
+      "rentPerSqm": 1851,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14211",
+      "prefName": "神奈川県",
+      "muniName": "秦野市",
+      "rentPerSqm": 1267,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14212",
+      "prefName": "神奈川県",
+      "muniName": "厚木市",
+      "rentPerSqm": 1399,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14213",
+      "prefName": "神奈川県",
+      "muniName": "大和市",
+      "rentPerSqm": 1587,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14214",
+      "prefName": "神奈川県",
+      "muniName": "伊勢原市",
+      "rentPerSqm": 1388,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14215",
+      "prefName": "神奈川県",
+      "muniName": "海老名市",
+      "rentPerSqm": 1642,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14216",
+      "prefName": "神奈川県",
+      "muniName": "座間市",
+      "rentPerSqm": 1371,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14217",
+      "prefName": "神奈川県",
+      "muniName": "南足柄市",
+      "rentPerSqm": 1081,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14218",
+      "prefName": "神奈川県",
+      "muniName": "綾瀬市",
+      "rentPerSqm": 1288,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14301",
+      "prefName": "神奈川県",
+      "muniName": "葉山町",
+      "rentPerSqm": 1353,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14321",
+      "prefName": "神奈川県",
+      "muniName": "寒川町",
+      "rentPerSqm": 1344,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14341",
+      "prefName": "神奈川県",
+      "muniName": "大磯町",
+      "rentPerSqm": 1261,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14342",
+      "prefName": "神奈川県",
+      "muniName": "二宮町",
+      "rentPerSqm": 1152,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14362",
+      "prefName": "神奈川県",
+      "muniName": "大井町",
+      "rentPerSqm": 1018,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14366",
+      "prefName": "神奈川県",
+      "muniName": "開成町",
+      "rentPerSqm": 1344,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14384",
+      "prefName": "神奈川県",
+      "muniName": "湯河原町",
+      "rentPerSqm": 1052,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "14401",
+      "prefName": "神奈川県",
+      "muniName": "愛川町",
+      "rentPerSqm": 1236,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15100",
+      "prefName": "新潟県",
+      "muniName": "新潟市",
+      "rentPerSqm": 1172,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15101",
+      "prefName": "新潟県",
+      "muniName": "新潟市　北区",
+      "rentPerSqm": 1200,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15102",
+      "prefName": "新潟県",
+      "muniName": "新潟市　東区",
+      "rentPerSqm": 1076,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15103",
+      "prefName": "新潟県",
+      "muniName": "新潟市　中央区",
+      "rentPerSqm": 1307,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15104",
+      "prefName": "新潟県",
+      "muniName": "新潟市　江南区",
+      "rentPerSqm": 1092,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15105",
+      "prefName": "新潟県",
+      "muniName": "新潟市　秋葉区",
+      "rentPerSqm": 1036,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15106",
+      "prefName": "新潟県",
+      "muniName": "新潟市　南区",
+      "rentPerSqm": 862,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15107",
+      "prefName": "新潟県",
+      "muniName": "新潟市　西区",
+      "rentPerSqm": 1139,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15108",
+      "prefName": "新潟県",
+      "muniName": "新潟市　西蒲区",
+      "rentPerSqm": 836,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15202",
+      "prefName": "新潟県",
+      "muniName": "長岡市",
+      "rentPerSqm": 1187,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15204",
+      "prefName": "新潟県",
+      "muniName": "三条市",
+      "rentPerSqm": 1084,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15205",
+      "prefName": "新潟県",
+      "muniName": "柏崎市",
+      "rentPerSqm": 1037,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15206",
+      "prefName": "新潟県",
+      "muniName": "新発田市",
+      "rentPerSqm": 984,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15208",
+      "prefName": "新潟県",
+      "muniName": "小千谷市",
+      "rentPerSqm": 1136,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15209",
+      "prefName": "新潟県",
+      "muniName": "加茂市",
+      "rentPerSqm": 766,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15210",
+      "prefName": "新潟県",
+      "muniName": "十日町市",
+      "rentPerSqm": 865,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15211",
+      "prefName": "新潟県",
+      "muniName": "見附市",
+      "rentPerSqm": 1000,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15212",
+      "prefName": "新潟県",
+      "muniName": "村上市",
+      "rentPerSqm": 759,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15213",
+      "prefName": "新潟県",
+      "muniName": "燕市",
+      "rentPerSqm": 965,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15216",
+      "prefName": "新潟県",
+      "muniName": "糸魚川市",
+      "rentPerSqm": 953,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15217",
+      "prefName": "新潟県",
+      "muniName": "妙高市",
+      "rentPerSqm": 773,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15218",
+      "prefName": "新潟県",
+      "muniName": "五泉市",
+      "rentPerSqm": 766,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15222",
+      "prefName": "新潟県",
+      "muniName": "上越市",
+      "rentPerSqm": 1166,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15223",
+      "prefName": "新潟県",
+      "muniName": "阿賀野市",
+      "rentPerSqm": 860,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15224",
+      "prefName": "新潟県",
+      "muniName": "佐渡市",
+      "rentPerSqm": 670,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15225",
+      "prefName": "新潟県",
+      "muniName": "魚沼市",
+      "rentPerSqm": 834,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15226",
+      "prefName": "新潟県",
+      "muniName": "南魚沼市",
+      "rentPerSqm": 866,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "15227",
+      "prefName": "新潟県",
+      "muniName": "胎内市",
+      "rentPerSqm": 1019,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16201",
+      "prefName": "富山県",
+      "muniName": "富山市",
+      "rentPerSqm": 1112,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16202",
+      "prefName": "富山県",
+      "muniName": "高岡市",
+      "rentPerSqm": 998,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16204",
+      "prefName": "富山県",
+      "muniName": "魚津市",
+      "rentPerSqm": 1042,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16205",
+      "prefName": "富山県",
+      "muniName": "氷見市",
+      "rentPerSqm": 892,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16206",
+      "prefName": "富山県",
+      "muniName": "滑川市",
+      "rentPerSqm": 1037,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16207",
+      "prefName": "富山県",
+      "muniName": "黒部市",
+      "rentPerSqm": 987,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16208",
+      "prefName": "富山県",
+      "muniName": "砺波市",
+      "rentPerSqm": 1107,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16209",
+      "prefName": "富山県",
+      "muniName": "小矢部市",
+      "rentPerSqm": 1034,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16210",
+      "prefName": "富山県",
+      "muniName": "南砺市",
+      "rentPerSqm": 694,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16211",
+      "prefName": "富山県",
+      "muniName": "射水市",
+      "rentPerSqm": 1071,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16322",
+      "prefName": "富山県",
+      "muniName": "上市町",
+      "rentPerSqm": 806,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16323",
+      "prefName": "富山県",
+      "muniName": "立山町",
+      "rentPerSqm": 819,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "16342",
+      "prefName": "富山県",
+      "muniName": "入善町",
+      "rentPerSqm": 810,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17201",
+      "prefName": "石川県",
+      "muniName": "金沢市",
+      "rentPerSqm": 1151,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17202",
+      "prefName": "石川県",
+      "muniName": "七尾市",
+      "rentPerSqm": 1050,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17203",
+      "prefName": "石川県",
+      "muniName": "小松市",
+      "rentPerSqm": 876,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17204",
+      "prefName": "石川県",
+      "muniName": "輪島市",
+      "rentPerSqm": 801,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17205",
+      "prefName": "石川県",
+      "muniName": "珠洲市",
+      "rentPerSqm": 609,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17206",
+      "prefName": "石川県",
+      "muniName": "加賀市",
+      "rentPerSqm": 734,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17207",
+      "prefName": "石川県",
+      "muniName": "羽咋市",
+      "rentPerSqm": 806,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17209",
+      "prefName": "石川県",
+      "muniName": "かほく市",
+      "rentPerSqm": 908,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17210",
+      "prefName": "石川県",
+      "muniName": "白山市",
+      "rentPerSqm": 1044,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17211",
+      "prefName": "石川県",
+      "muniName": "能美市",
+      "rentPerSqm": 889,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17212",
+      "prefName": "石川県",
+      "muniName": "野々市市",
+      "rentPerSqm": 1235,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17361",
+      "prefName": "石川県",
+      "muniName": "津幡町",
+      "rentPerSqm": 963,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17365",
+      "prefName": "石川県",
+      "muniName": "内灘町",
+      "rentPerSqm": 995,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17384",
+      "prefName": "石川県",
+      "muniName": "志賀町",
+      "rentPerSqm": 459,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17407",
+      "prefName": "石川県",
+      "muniName": "中能登町",
+      "rentPerSqm": 937,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "17463",
+      "prefName": "石川県",
+      "muniName": "能登町",
+      "rentPerSqm": 471,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18201",
+      "prefName": "福井県",
+      "muniName": "福井市",
+      "rentPerSqm": 1050,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18202",
+      "prefName": "福井県",
+      "muniName": "敦賀市",
+      "rentPerSqm": 1092,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18204",
+      "prefName": "福井県",
+      "muniName": "小浜市",
+      "rentPerSqm": 1132,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18205",
+      "prefName": "福井県",
+      "muniName": "大野市",
+      "rentPerSqm": 521,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18206",
+      "prefName": "福井県",
+      "muniName": "勝山市",
+      "rentPerSqm": 817,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18207",
+      "prefName": "福井県",
+      "muniName": "鯖江市",
+      "rentPerSqm": 1085,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18208",
+      "prefName": "福井県",
+      "muniName": "あわら市",
+      "rentPerSqm": 838,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18209",
+      "prefName": "福井県",
+      "muniName": "越前市",
+      "rentPerSqm": 1034,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18210",
+      "prefName": "福井県",
+      "muniName": "坂井市",
+      "rentPerSqm": 834,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18322",
+      "prefName": "福井県",
+      "muniName": "永平寺町",
+      "rentPerSqm": 1424,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "18423",
+      "prefName": "福井県",
+      "muniName": "越前町",
+      "rentPerSqm": 355,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19201",
+      "prefName": "山梨県",
+      "muniName": "甲府市",
+      "rentPerSqm": 1155,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19202",
+      "prefName": "山梨県",
+      "muniName": "富士吉田市",
+      "rentPerSqm": 1001,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19204",
+      "prefName": "山梨県",
+      "muniName": "都留市",
+      "rentPerSqm": 1292,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19205",
+      "prefName": "山梨県",
+      "muniName": "山梨市",
+      "rentPerSqm": 1015,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19206",
+      "prefName": "山梨県",
+      "muniName": "大月市",
+      "rentPerSqm": 1079,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19207",
+      "prefName": "山梨県",
+      "muniName": "韮崎市",
+      "rentPerSqm": 1110,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19208",
+      "prefName": "山梨県",
+      "muniName": "南アルプス市",
+      "rentPerSqm": 1029,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19209",
+      "prefName": "山梨県",
+      "muniName": "北杜市",
+      "rentPerSqm": 871,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19210",
+      "prefName": "山梨県",
+      "muniName": "甲斐市",
+      "rentPerSqm": 1139,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19211",
+      "prefName": "山梨県",
+      "muniName": "笛吹市",
+      "rentPerSqm": 1109,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19212",
+      "prefName": "山梨県",
+      "muniName": "上野原市",
+      "rentPerSqm": 1114,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19213",
+      "prefName": "山梨県",
+      "muniName": "甲州市",
+      "rentPerSqm": 1068,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19214",
+      "prefName": "山梨県",
+      "muniName": "中央市",
+      "rentPerSqm": 1259,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19384",
+      "prefName": "山梨県",
+      "muniName": "昭和町",
+      "rentPerSqm": 1235,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "19430",
+      "prefName": "山梨県",
+      "muniName": "富士河口湖町",
+      "rentPerSqm": 954,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20201",
+      "prefName": "長野県",
+      "muniName": "長野市",
+      "rentPerSqm": 1161,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20202",
+      "prefName": "長野県",
+      "muniName": "松本市",
+      "rentPerSqm": 1217,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20203",
+      "prefName": "長野県",
+      "muniName": "上田市",
+      "rentPerSqm": 1033,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20204",
+      "prefName": "長野県",
+      "muniName": "岡谷市",
+      "rentPerSqm": 1097,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20205",
+      "prefName": "長野県",
+      "muniName": "飯田市",
+      "rentPerSqm": 967,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20206",
+      "prefName": "長野県",
+      "muniName": "諏訪市",
+      "rentPerSqm": 1147,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20207",
+      "prefName": "長野県",
+      "muniName": "須坂市",
+      "rentPerSqm": 1034,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20208",
+      "prefName": "長野県",
+      "muniName": "小諸市",
+      "rentPerSqm": 994,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20209",
+      "prefName": "長野県",
+      "muniName": "伊那市",
+      "rentPerSqm": 1021,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20210",
+      "prefName": "長野県",
+      "muniName": "駒ヶ根市",
+      "rentPerSqm": 1000,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20211",
+      "prefName": "長野県",
+      "muniName": "中野市",
+      "rentPerSqm": 1064,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20212",
+      "prefName": "長野県",
+      "muniName": "大町市",
+      "rentPerSqm": 785,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20213",
+      "prefName": "長野県",
+      "muniName": "飯山市",
+      "rentPerSqm": 1005,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20214",
+      "prefName": "長野県",
+      "muniName": "茅野市",
+      "rentPerSqm": 1073,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20215",
+      "prefName": "長野県",
+      "muniName": "塩尻市",
+      "rentPerSqm": 1227,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20217",
+      "prefName": "長野県",
+      "muniName": "佐久市",
+      "rentPerSqm": 1044,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20218",
+      "prefName": "長野県",
+      "muniName": "千曲市",
+      "rentPerSqm": 845,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20219",
+      "prefName": "長野県",
+      "muniName": "東御市",
+      "rentPerSqm": 938,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20220",
+      "prefName": "長野県",
+      "muniName": "安曇野市",
+      "rentPerSqm": 1073,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20321",
+      "prefName": "長野県",
+      "muniName": "軽井沢町",
+      "rentPerSqm": 798,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20323",
+      "prefName": "長野県",
+      "muniName": "御代田町",
+      "rentPerSqm": 1199,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20361",
+      "prefName": "長野県",
+      "muniName": "下諏訪町",
+      "rentPerSqm": 1006,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20382",
+      "prefName": "長野県",
+      "muniName": "辰野町",
+      "rentPerSqm": 622,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20383",
+      "prefName": "長野県",
+      "muniName": "箕輪町",
+      "rentPerSqm": 989,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "20385",
+      "prefName": "長野県",
+      "muniName": "南箕輪村",
+      "rentPerSqm": 1108,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21201",
+      "prefName": "岐阜県",
+      "muniName": "岐阜市",
+      "rentPerSqm": 1038,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21202",
+      "prefName": "岐阜県",
+      "muniName": "大垣市",
+      "rentPerSqm": 1069,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21203",
+      "prefName": "岐阜県",
+      "muniName": "高山市",
+      "rentPerSqm": 983,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21204",
+      "prefName": "岐阜県",
+      "muniName": "多治見市",
+      "rentPerSqm": 1068,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21205",
+      "prefName": "岐阜県",
+      "muniName": "関市",
+      "rentPerSqm": 975,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21206",
+      "prefName": "岐阜県",
+      "muniName": "中津川市",
+      "rentPerSqm": 956,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21207",
+      "prefName": "岐阜県",
+      "muniName": "美濃市",
+      "rentPerSqm": 907,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21208",
+      "prefName": "岐阜県",
+      "muniName": "瑞浪市",
+      "rentPerSqm": 1050,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21209",
+      "prefName": "岐阜県",
+      "muniName": "羽島市",
+      "rentPerSqm": 1048,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21210",
+      "prefName": "岐阜県",
+      "muniName": "恵那市",
+      "rentPerSqm": 964,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21211",
+      "prefName": "岐阜県",
+      "muniName": "美濃加茂市",
+      "rentPerSqm": 962,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21212",
+      "prefName": "岐阜県",
+      "muniName": "土岐市",
+      "rentPerSqm": 945,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21213",
+      "prefName": "岐阜県",
+      "muniName": "各務原市",
+      "rentPerSqm": 1073,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21214",
+      "prefName": "岐阜県",
+      "muniName": "可児市",
+      "rentPerSqm": 1168,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21215",
+      "prefName": "岐阜県",
+      "muniName": "山県市",
+      "rentPerSqm": 525,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21216",
+      "prefName": "岐阜県",
+      "muniName": "瑞穂市",
+      "rentPerSqm": 1012,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21217",
+      "prefName": "岐阜県",
+      "muniName": "飛騨市",
+      "rentPerSqm": 653,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21218",
+      "prefName": "岐阜県",
+      "muniName": "本巣市",
+      "rentPerSqm": 930,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21219",
+      "prefName": "岐阜県",
+      "muniName": "郡上市",
+      "rentPerSqm": 589,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21220",
+      "prefName": "岐阜県",
+      "muniName": "下呂市",
+      "rentPerSqm": 779,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21221",
+      "prefName": "岐阜県",
+      "muniName": "海津市",
+      "rentPerSqm": 913,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21302",
+      "prefName": "岐阜県",
+      "muniName": "岐南町",
+      "rentPerSqm": 945,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21303",
+      "prefName": "岐阜県",
+      "muniName": "笠松町",
+      "rentPerSqm": 867,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21341",
+      "prefName": "岐阜県",
+      "muniName": "養老町",
+      "rentPerSqm": 798,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21361",
+      "prefName": "岐阜県",
+      "muniName": "垂井町",
+      "rentPerSqm": 923,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21381",
+      "prefName": "岐阜県",
+      "muniName": "神戸町",
+      "rentPerSqm": 862,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21401",
+      "prefName": "岐阜県",
+      "muniName": "揖斐川町",
+      "rentPerSqm": 656,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21403",
+      "prefName": "岐阜県",
+      "muniName": "大野町",
+      "rentPerSqm": 866,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21404",
+      "prefName": "岐阜県",
+      "muniName": "池田町",
+      "rentPerSqm": 845,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21421",
+      "prefName": "岐阜県",
+      "muniName": "北方町",
+      "rentPerSqm": 955,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "21521",
+      "prefName": "岐阜県",
+      "muniName": "御嵩町",
+      "rentPerSqm": 739,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22100",
+      "prefName": "静岡県",
+      "muniName": "静岡市",
+      "rentPerSqm": 1373,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22101",
+      "prefName": "静岡県",
+      "muniName": "静岡市　葵区",
+      "rentPerSqm": 1421,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22102",
+      "prefName": "静岡県",
+      "muniName": "静岡市　駿河区",
+      "rentPerSqm": 1412,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22103",
+      "prefName": "静岡県",
+      "muniName": "静岡市　清水区",
+      "rentPerSqm": 1253,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22130",
+      "prefName": "静岡県",
+      "muniName": "浜松市",
+      "rentPerSqm": 1188,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22203",
+      "prefName": "静岡県",
+      "muniName": "沼津市",
+      "rentPerSqm": 1166,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22205",
+      "prefName": "静岡県",
+      "muniName": "熱海市",
+      "rentPerSqm": 1403,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22206",
+      "prefName": "静岡県",
+      "muniName": "三島市",
+      "rentPerSqm": 1264,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22207",
+      "prefName": "静岡県",
+      "muniName": "富士宮市",
+      "rentPerSqm": 1011,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22208",
+      "prefName": "静岡県",
+      "muniName": "伊東市",
+      "rentPerSqm": 1118,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22209",
+      "prefName": "静岡県",
+      "muniName": "島田市",
+      "rentPerSqm": 1138,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22210",
+      "prefName": "静岡県",
+      "muniName": "富士市",
+      "rentPerSqm": 1096,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22211",
+      "prefName": "静岡県",
+      "muniName": "磐田市",
+      "rentPerSqm": 1103,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22212",
+      "prefName": "静岡県",
+      "muniName": "焼津市",
+      "rentPerSqm": 1113,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22213",
+      "prefName": "静岡県",
+      "muniName": "掛川市",
+      "rentPerSqm": 1079,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22214",
+      "prefName": "静岡県",
+      "muniName": "藤枝市",
+      "rentPerSqm": 1160,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22215",
+      "prefName": "静岡県",
+      "muniName": "御殿場市",
+      "rentPerSqm": 1188,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22216",
+      "prefName": "静岡県",
+      "muniName": "袋井市",
+      "rentPerSqm": 1077,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22219",
+      "prefName": "静岡県",
+      "muniName": "下田市",
+      "rentPerSqm": 984,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22220",
+      "prefName": "静岡県",
+      "muniName": "裾野市",
+      "rentPerSqm": 1131,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22221",
+      "prefName": "静岡県",
+      "muniName": "湖西市",
+      "rentPerSqm": 1082,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22222",
+      "prefName": "静岡県",
+      "muniName": "伊豆市",
+      "rentPerSqm": 968,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22223",
+      "prefName": "静岡県",
+      "muniName": "御前崎市",
+      "rentPerSqm": 1057,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22224",
+      "prefName": "静岡県",
+      "muniName": "菊川市",
+      "rentPerSqm": 1201,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22225",
+      "prefName": "静岡県",
+      "muniName": "伊豆の国市",
+      "rentPerSqm": 1126,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22226",
+      "prefName": "静岡県",
+      "muniName": "牧之原市",
+      "rentPerSqm": 873,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22325",
+      "prefName": "静岡県",
+      "muniName": "函南町",
+      "rentPerSqm": 1159,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22341",
+      "prefName": "静岡県",
+      "muniName": "清水町",
+      "rentPerSqm": 1163,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22342",
+      "prefName": "静岡県",
+      "muniName": "長泉町",
+      "rentPerSqm": 1302,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22344",
+      "prefName": "静岡県",
+      "muniName": "小山町",
+      "rentPerSqm": 999,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22424",
+      "prefName": "静岡県",
+      "muniName": "吉田町",
+      "rentPerSqm": 994,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "22461",
+      "prefName": "静岡県",
+      "muniName": "森町",
+      "rentPerSqm": 1122,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23100",
+      "prefName": "愛知県",
+      "muniName": "名古屋市",
+      "rentPerSqm": 1516,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23101",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　千種区",
+      "rentPerSqm": 1755,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23102",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　東区",
+      "rentPerSqm": 1774,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23103",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　北区",
+      "rentPerSqm": 1453,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23104",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　西区",
+      "rentPerSqm": 1513,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23105",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　中村区",
+      "rentPerSqm": 1606,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23106",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　中区",
+      "rentPerSqm": 2038,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23107",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　昭和区",
+      "rentPerSqm": 1669,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23108",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　瑞穂区",
+      "rentPerSqm": 1598,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23109",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　熱田区",
+      "rentPerSqm": 1535,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23110",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　中川区",
+      "rentPerSqm": 1345,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23111",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　港区",
+      "rentPerSqm": 1252,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23112",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　南区",
+      "rentPerSqm": 1431,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23113",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　守山区",
+      "rentPerSqm": 1246,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23114",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　緑区",
+      "rentPerSqm": 1306,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23115",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　名東区",
+      "rentPerSqm": 1309,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23116",
+      "prefName": "愛知県",
+      "muniName": "名古屋市　天白区",
+      "rentPerSqm": 1356,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23201",
+      "prefName": "愛知県",
+      "muniName": "豊橋市",
+      "rentPerSqm": 1128,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23202",
+      "prefName": "愛知県",
+      "muniName": "岡崎市",
+      "rentPerSqm": 1234,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23203",
+      "prefName": "愛知県",
+      "muniName": "一宮市",
+      "rentPerSqm": 1114,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23204",
+      "prefName": "愛知県",
+      "muniName": "瀬戸市",
+      "rentPerSqm": 1085,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23205",
+      "prefName": "愛知県",
+      "muniName": "半田市",
+      "rentPerSqm": 1158,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23206",
+      "prefName": "愛知県",
+      "muniName": "春日井市",
+      "rentPerSqm": 1182,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23207",
+      "prefName": "愛知県",
+      "muniName": "豊川市",
+      "rentPerSqm": 1128,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23208",
+      "prefName": "愛知県",
+      "muniName": "津島市",
+      "rentPerSqm": 933,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23209",
+      "prefName": "愛知県",
+      "muniName": "碧南市",
+      "rentPerSqm": 1058,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23210",
+      "prefName": "愛知県",
+      "muniName": "刈谷市",
+      "rentPerSqm": 1400,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23211",
+      "prefName": "愛知県",
+      "muniName": "豊田市",
+      "rentPerSqm": 1389,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23212",
+      "prefName": "愛知県",
+      "muniName": "安城市",
+      "rentPerSqm": 1360,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23213",
+      "prefName": "愛知県",
+      "muniName": "西尾市",
+      "rentPerSqm": 1105,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23214",
+      "prefName": "愛知県",
+      "muniName": "蒲郡市",
+      "rentPerSqm": 1106,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23215",
+      "prefName": "愛知県",
+      "muniName": "犬山市",
+      "rentPerSqm": 1093,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23216",
+      "prefName": "愛知県",
+      "muniName": "常滑市",
+      "rentPerSqm": 1177,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23217",
+      "prefName": "愛知県",
+      "muniName": "江南市",
+      "rentPerSqm": 1044,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23219",
+      "prefName": "愛知県",
+      "muniName": "小牧市",
+      "rentPerSqm": 1254,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23220",
+      "prefName": "愛知県",
+      "muniName": "稲沢市",
+      "rentPerSqm": 1180,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23221",
+      "prefName": "愛知県",
+      "muniName": "新城市",
+      "rentPerSqm": 881,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23222",
+      "prefName": "愛知県",
+      "muniName": "東海市",
+      "rentPerSqm": 1259,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23223",
+      "prefName": "愛知県",
+      "muniName": "大府市",
+      "rentPerSqm": 1324,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23224",
+      "prefName": "愛知県",
+      "muniName": "知多市",
+      "rentPerSqm": 1059,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23225",
+      "prefName": "愛知県",
+      "muniName": "知立市",
+      "rentPerSqm": 1346,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23226",
+      "prefName": "愛知県",
+      "muniName": "尾張旭市",
+      "rentPerSqm": 1172,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23227",
+      "prefName": "愛知県",
+      "muniName": "高浜市",
+      "rentPerSqm": 1175,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23228",
+      "prefName": "愛知県",
+      "muniName": "岩倉市",
+      "rentPerSqm": 1159,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23229",
+      "prefName": "愛知県",
+      "muniName": "豊明市",
+      "rentPerSqm": 1286,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23230",
+      "prefName": "愛知県",
+      "muniName": "日進市",
+      "rentPerSqm": 1287,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23231",
+      "prefName": "愛知県",
+      "muniName": "田原市",
+      "rentPerSqm": 1003,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23232",
+      "prefName": "愛知県",
+      "muniName": "愛西市",
+      "rentPerSqm": 1095,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23233",
+      "prefName": "愛知県",
+      "muniName": "清須市",
+      "rentPerSqm": 1268,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23234",
+      "prefName": "愛知県",
+      "muniName": "北名古屋市",
+      "rentPerSqm": 1284,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23235",
+      "prefName": "愛知県",
+      "muniName": "弥富市",
+      "rentPerSqm": 1137,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23236",
+      "prefName": "愛知県",
+      "muniName": "みよし市",
+      "rentPerSqm": 1287,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23237",
+      "prefName": "愛知県",
+      "muniName": "あま市",
+      "rentPerSqm": 1121,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23238",
+      "prefName": "愛知県",
+      "muniName": "長久手市",
+      "rentPerSqm": 1382,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23302",
+      "prefName": "愛知県",
+      "muniName": "東郷町",
+      "rentPerSqm": 1161,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23342",
+      "prefName": "愛知県",
+      "muniName": "豊山町",
+      "rentPerSqm": 1074,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23361",
+      "prefName": "愛知県",
+      "muniName": "大口町",
+      "rentPerSqm": 1162,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23362",
+      "prefName": "愛知県",
+      "muniName": "扶桑町",
+      "rentPerSqm": 1012,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23424",
+      "prefName": "愛知県",
+      "muniName": "大治町",
+      "rentPerSqm": 1201,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23425",
+      "prefName": "愛知県",
+      "muniName": "蟹江町",
+      "rentPerSqm": 1183,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23441",
+      "prefName": "愛知県",
+      "muniName": "阿久比町",
+      "rentPerSqm": 940,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23442",
+      "prefName": "愛知県",
+      "muniName": "東浦町",
+      "rentPerSqm": 1278,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23445",
+      "prefName": "愛知県",
+      "muniName": "南知多町",
+      "rentPerSqm": 688,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23446",
+      "prefName": "愛知県",
+      "muniName": "美浜町",
+      "rentPerSqm": 1033,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23447",
+      "prefName": "愛知県",
+      "muniName": "武豊町",
+      "rentPerSqm": 1142,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "23501",
+      "prefName": "愛知県",
+      "muniName": "幸田町",
+      "rentPerSqm": 1102,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24201",
+      "prefName": "三重県",
+      "muniName": "津市",
+      "rentPerSqm": 1120,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24202",
+      "prefName": "三重県",
+      "muniName": "四日市市",
+      "rentPerSqm": 1196,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24203",
+      "prefName": "三重県",
+      "muniName": "伊勢市",
+      "rentPerSqm": 1020,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24204",
+      "prefName": "三重県",
+      "muniName": "松阪市",
+      "rentPerSqm": 979,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24205",
+      "prefName": "三重県",
+      "muniName": "桑名市",
+      "rentPerSqm": 1145,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24207",
+      "prefName": "三重県",
+      "muniName": "鈴鹿市",
+      "rentPerSqm": 1126,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24208",
+      "prefName": "三重県",
+      "muniName": "名張市",
+      "rentPerSqm": 1009,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24209",
+      "prefName": "三重県",
+      "muniName": "尾鷲市",
+      "rentPerSqm": 588,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24210",
+      "prefName": "三重県",
+      "muniName": "亀山市",
+      "rentPerSqm": 913,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24211",
+      "prefName": "三重県",
+      "muniName": "鳥羽市",
+      "rentPerSqm": 676,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24212",
+      "prefName": "三重県",
+      "muniName": "熊野市",
+      "rentPerSqm": 672,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24214",
+      "prefName": "三重県",
+      "muniName": "いなべ市",
+      "rentPerSqm": 1067,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24215",
+      "prefName": "三重県",
+      "muniName": "志摩市",
+      "rentPerSqm": 711,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24216",
+      "prefName": "三重県",
+      "muniName": "伊賀市",
+      "rentPerSqm": 1008,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24324",
+      "prefName": "三重県",
+      "muniName": "東員町",
+      "rentPerSqm": 1062,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24341",
+      "prefName": "三重県",
+      "muniName": "菰野町",
+      "rentPerSqm": 1008,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24344",
+      "prefName": "三重県",
+      "muniName": "川越町",
+      "rentPerSqm": 1123,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24442",
+      "prefName": "三重県",
+      "muniName": "明和町",
+      "rentPerSqm": 1119,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "24461",
+      "prefName": "三重県",
+      "muniName": "玉城町",
+      "rentPerSqm": 1002,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25201",
+      "prefName": "滋賀県",
+      "muniName": "大津市",
+      "rentPerSqm": 1213,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25202",
+      "prefName": "滋賀県",
+      "muniName": "彦根市",
+      "rentPerSqm": 1179,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25203",
+      "prefName": "滋賀県",
+      "muniName": "長浜市",
+      "rentPerSqm": 1059,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25204",
+      "prefName": "滋賀県",
+      "muniName": "近江八幡市",
+      "rentPerSqm": 1255,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25206",
+      "prefName": "滋賀県",
+      "muniName": "草津市",
+      "rentPerSqm": 1452,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25207",
+      "prefName": "滋賀県",
+      "muniName": "守山市",
+      "rentPerSqm": 1230,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25208",
+      "prefName": "滋賀県",
+      "muniName": "栗東市",
+      "rentPerSqm": 1194,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25209",
+      "prefName": "滋賀県",
+      "muniName": "甲賀市",
+      "rentPerSqm": 986,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25210",
+      "prefName": "滋賀県",
+      "muniName": "野洲市",
+      "rentPerSqm": 1226,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25211",
+      "prefName": "滋賀県",
+      "muniName": "湖南市",
+      "rentPerSqm": 1105,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25212",
+      "prefName": "滋賀県",
+      "muniName": "高島市",
+      "rentPerSqm": 837,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25213",
+      "prefName": "滋賀県",
+      "muniName": "東近江市",
+      "rentPerSqm": 1110,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25214",
+      "prefName": "滋賀県",
+      "muniName": "米原市",
+      "rentPerSqm": 1027,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25383",
+      "prefName": "滋賀県",
+      "muniName": "日野町",
+      "rentPerSqm": 986,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "25425",
+      "prefName": "滋賀県",
+      "muniName": "愛荘町",
+      "rentPerSqm": 1067,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26100",
+      "prefName": "京都府",
+      "muniName": "京都市",
+      "rentPerSqm": 1765,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26101",
+      "prefName": "京都府",
+      "muniName": "京都市　北区",
+      "rentPerSqm": 1646,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26102",
+      "prefName": "京都府",
+      "muniName": "京都市　上京区",
+      "rentPerSqm": 1981,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26103",
+      "prefName": "京都府",
+      "muniName": "京都市　左京区",
+      "rentPerSqm": 1949,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26104",
+      "prefName": "京都府",
+      "muniName": "京都市　中京区",
+      "rentPerSqm": 2131,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26105",
+      "prefName": "京都府",
+      "muniName": "京都市　東山区",
+      "rentPerSqm": 1772,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26106",
+      "prefName": "京都府",
+      "muniName": "京都市　下京区",
+      "rentPerSqm": 2061,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26107",
+      "prefName": "京都府",
+      "muniName": "京都市　南区",
+      "rentPerSqm": 1838,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26108",
+      "prefName": "京都府",
+      "muniName": "京都市　右京区",
+      "rentPerSqm": 1636,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26109",
+      "prefName": "京都府",
+      "muniName": "京都市　伏見区",
+      "rentPerSqm": 1473,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26110",
+      "prefName": "京都府",
+      "muniName": "京都市　山科区",
+      "rentPerSqm": 1559,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26111",
+      "prefName": "京都府",
+      "muniName": "京都市　西京区",
+      "rentPerSqm": 1496,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26201",
+      "prefName": "京都府",
+      "muniName": "福知山市",
+      "rentPerSqm": 1100,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26202",
+      "prefName": "京都府",
+      "muniName": "舞鶴市",
+      "rentPerSqm": 1087,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26203",
+      "prefName": "京都府",
+      "muniName": "綾部市",
+      "rentPerSqm": 1378,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26204",
+      "prefName": "京都府",
+      "muniName": "宇治市",
+      "rentPerSqm": 1310,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26205",
+      "prefName": "京都府",
+      "muniName": "宮津市",
+      "rentPerSqm": 702,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26206",
+      "prefName": "京都府",
+      "muniName": "亀岡市",
+      "rentPerSqm": 1124,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26207",
+      "prefName": "京都府",
+      "muniName": "城陽市",
+      "rentPerSqm": 1264,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26208",
+      "prefName": "京都府",
+      "muniName": "向日市",
+      "rentPerSqm": 1446,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26209",
+      "prefName": "京都府",
+      "muniName": "長岡京市",
+      "rentPerSqm": 1538,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26210",
+      "prefName": "京都府",
+      "muniName": "八幡市",
+      "rentPerSqm": 1170,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26211",
+      "prefName": "京都府",
+      "muniName": "京田辺市",
+      "rentPerSqm": 1508,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26212",
+      "prefName": "京都府",
+      "muniName": "京丹後市",
+      "rentPerSqm": 886,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26213",
+      "prefName": "京都府",
+      "muniName": "南丹市",
+      "rentPerSqm": 1156,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26214",
+      "prefName": "京都府",
+      "muniName": "木津川市",
+      "rentPerSqm": 1062,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26303",
+      "prefName": "京都府",
+      "muniName": "大山崎町",
+      "rentPerSqm": 1254,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26322",
+      "prefName": "京都府",
+      "muniName": "久御山町",
+      "rentPerSqm": 1356,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26366",
+      "prefName": "京都府",
+      "muniName": "精華町",
+      "rentPerSqm": 1079,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "26465",
+      "prefName": "京都府",
+      "muniName": "与謝野町",
+      "rentPerSqm": 585,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27100",
+      "prefName": "大阪府",
+      "muniName": "大阪市",
+      "rentPerSqm": 1809,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27102",
+      "prefName": "大阪府",
+      "muniName": "大阪市　都島区",
+      "rentPerSqm": 1984,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27103",
+      "prefName": "大阪府",
+      "muniName": "大阪市　福島区",
+      "rentPerSqm": 2081,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27104",
+      "prefName": "大阪府",
+      "muniName": "大阪市　此花区",
+      "rentPerSqm": 1592,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27106",
+      "prefName": "大阪府",
+      "muniName": "大阪市　西区",
+      "rentPerSqm": 2104,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27107",
+      "prefName": "大阪府",
+      "muniName": "大阪市　港区",
+      "rentPerSqm": 1738,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27108",
+      "prefName": "大阪府",
+      "muniName": "大阪市　大正区",
+      "rentPerSqm": 1403,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27109",
+      "prefName": "大阪府",
+      "muniName": "大阪市　天王寺区",
+      "rentPerSqm": 1944,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27111",
+      "prefName": "大阪府",
+      "muniName": "大阪市　浪速区",
+      "rentPerSqm": 2182,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27113",
+      "prefName": "大阪府",
+      "muniName": "大阪市　西淀川区",
+      "rentPerSqm": 1763,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27114",
+      "prefName": "大阪府",
+      "muniName": "大阪市　東淀川区",
+      "rentPerSqm": 1645,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27115",
+      "prefName": "大阪府",
+      "muniName": "大阪市　東成区",
+      "rentPerSqm": 1788,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27116",
+      "prefName": "大阪府",
+      "muniName": "大阪市　生野区",
+      "rentPerSqm": 1521,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27117",
+      "prefName": "大阪府",
+      "muniName": "大阪市　旭区",
+      "rentPerSqm": 1593,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27118",
+      "prefName": "大阪府",
+      "muniName": "大阪市　城東区",
+      "rentPerSqm": 1580,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27119",
+      "prefName": "大阪府",
+      "muniName": "大阪市　阿倍野区",
+      "rentPerSqm": 1726,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27120",
+      "prefName": "大阪府",
+      "muniName": "大阪市　住吉区",
+      "rentPerSqm": 1579,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27121",
+      "prefName": "大阪府",
+      "muniName": "大阪市　東住吉区",
+      "rentPerSqm": 1462,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27122",
+      "prefName": "大阪府",
+      "muniName": "大阪市　西成区",
+      "rentPerSqm": 1756,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27123",
+      "prefName": "大阪府",
+      "muniName": "大阪市　淀川区",
+      "rentPerSqm": 1885,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27124",
+      "prefName": "大阪府",
+      "muniName": "大阪市　鶴見区",
+      "rentPerSqm": 1579,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27125",
+      "prefName": "大阪府",
+      "muniName": "大阪市　住之江区",
+      "rentPerSqm": 1710,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27126",
+      "prefName": "大阪府",
+      "muniName": "大阪市　平野区",
+      "rentPerSqm": 1421,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27127",
+      "prefName": "大阪府",
+      "muniName": "大阪市　北区",
+      "rentPerSqm": 2305,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27128",
+      "prefName": "大阪府",
+      "muniName": "大阪市　中央区",
+      "rentPerSqm": 2205,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27140",
+      "prefName": "大阪府",
+      "muniName": "堺市",
+      "rentPerSqm": 1354,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27141",
+      "prefName": "大阪府",
+      "muniName": "堺市　堺区",
+      "rentPerSqm": 1462,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27142",
+      "prefName": "大阪府",
+      "muniName": "堺市　中区",
+      "rentPerSqm": 1280,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27143",
+      "prefName": "大阪府",
+      "muniName": "堺市　東区",
+      "rentPerSqm": 1145,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27144",
+      "prefName": "大阪府",
+      "muniName": "堺市　西区",
+      "rentPerSqm": 1283,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27145",
+      "prefName": "大阪府",
+      "muniName": "堺市　南区",
+      "rentPerSqm": 971,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27146",
+      "prefName": "大阪府",
+      "muniName": "堺市　北区",
+      "rentPerSqm": 1504,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27147",
+      "prefName": "大阪府",
+      "muniName": "堺市　美原区",
+      "rentPerSqm": 1128,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27202",
+      "prefName": "大阪府",
+      "muniName": "岸和田市",
+      "rentPerSqm": 1145,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27203",
+      "prefName": "大阪府",
+      "muniName": "豊中市",
+      "rentPerSqm": 1600,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27204",
+      "prefName": "大阪府",
+      "muniName": "池田市",
+      "rentPerSqm": 1598,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27205",
+      "prefName": "大阪府",
+      "muniName": "吹田市",
+      "rentPerSqm": 1724,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27206",
+      "prefName": "大阪府",
+      "muniName": "泉大津市",
+      "rentPerSqm": 1251,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27207",
+      "prefName": "大阪府",
+      "muniName": "高槻市",
+      "rentPerSqm": 1580,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27208",
+      "prefName": "大阪府",
+      "muniName": "貝塚市",
+      "rentPerSqm": 1154,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27209",
+      "prefName": "大阪府",
+      "muniName": "守口市",
+      "rentPerSqm": 1319,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27210",
+      "prefName": "大阪府",
+      "muniName": "枚方市",
+      "rentPerSqm": 1317,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27211",
+      "prefName": "大阪府",
+      "muniName": "茨木市",
+      "rentPerSqm": 1560,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27212",
+      "prefName": "大阪府",
+      "muniName": "八尾市",
+      "rentPerSqm": 1292,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27213",
+      "prefName": "大阪府",
+      "muniName": "泉佐野市",
+      "rentPerSqm": 1241,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27214",
+      "prefName": "大阪府",
+      "muniName": "富田林市",
+      "rentPerSqm": 1193,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27215",
+      "prefName": "大阪府",
+      "muniName": "寝屋川市",
+      "rentPerSqm": 1276,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27216",
+      "prefName": "大阪府",
+      "muniName": "河内長野市",
+      "rentPerSqm": 1056,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27217",
+      "prefName": "大阪府",
+      "muniName": "松原市",
+      "rentPerSqm": 1198,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27218",
+      "prefName": "大阪府",
+      "muniName": "大東市",
+      "rentPerSqm": 1326,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27219",
+      "prefName": "大阪府",
+      "muniName": "和泉市",
+      "rentPerSqm": 1153,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27220",
+      "prefName": "大阪府",
+      "muniName": "箕面市",
+      "rentPerSqm": 1442,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27221",
+      "prefName": "大阪府",
+      "muniName": "柏原市",
+      "rentPerSqm": 1133,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27222",
+      "prefName": "大阪府",
+      "muniName": "羽曳野市",
+      "rentPerSqm": 1101,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27223",
+      "prefName": "大阪府",
+      "muniName": "門真市",
+      "rentPerSqm": 1143,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27224",
+      "prefName": "大阪府",
+      "muniName": "摂津市",
+      "rentPerSqm": 1397,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27225",
+      "prefName": "大阪府",
+      "muniName": "高石市",
+      "rentPerSqm": 1209,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27226",
+      "prefName": "大阪府",
+      "muniName": "藤井寺市",
+      "rentPerSqm": 1174,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27227",
+      "prefName": "大阪府",
+      "muniName": "東大阪市",
+      "rentPerSqm": 1406,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27228",
+      "prefName": "大阪府",
+      "muniName": "泉南市",
+      "rentPerSqm": 935,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27229",
+      "prefName": "大阪府",
+      "muniName": "四條畷市",
+      "rentPerSqm": 1268,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27230",
+      "prefName": "大阪府",
+      "muniName": "交野市",
+      "rentPerSqm": 1204,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27231",
+      "prefName": "大阪府",
+      "muniName": "大阪狭山市",
+      "rentPerSqm": 1169,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27232",
+      "prefName": "大阪府",
+      "muniName": "阪南市",
+      "rentPerSqm": 904,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27301",
+      "prefName": "大阪府",
+      "muniName": "島本町",
+      "rentPerSqm": 1203,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27321",
+      "prefName": "大阪府",
+      "muniName": "豊能町",
+      "rentPerSqm": 574,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27341",
+      "prefName": "大阪府",
+      "muniName": "忠岡町",
+      "rentPerSqm": 1105,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27361",
+      "prefName": "大阪府",
+      "muniName": "熊取町",
+      "rentPerSqm": 1093,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "27382",
+      "prefName": "大阪府",
+      "muniName": "河南町",
+      "rentPerSqm": 1132,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28100",
+      "prefName": "兵庫県",
+      "muniName": "神戸市",
+      "rentPerSqm": 1615,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28101",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　東灘区",
+      "rentPerSqm": 1768,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28102",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　灘区",
+      "rentPerSqm": 1887,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28105",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　兵庫区",
+      "rentPerSqm": 1667,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28106",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　長田区",
+      "rentPerSqm": 1471,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28107",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　須磨区",
+      "rentPerSqm": 1470,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28108",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　垂水区",
+      "rentPerSqm": 1246,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28109",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　北区",
+      "rentPerSqm": 1163,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28110",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　中央区",
+      "rentPerSqm": 2006,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28111",
+      "prefName": "兵庫県",
+      "muniName": "神戸市　西区",
+      "rentPerSqm": 1148,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28201",
+      "prefName": "兵庫県",
+      "muniName": "姫路市",
+      "rentPerSqm": 1107,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28202",
+      "prefName": "兵庫県",
+      "muniName": "尼崎市",
+      "rentPerSqm": 1518,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28203",
+      "prefName": "兵庫県",
+      "muniName": "明石市",
+      "rentPerSqm": 1430,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28204",
+      "prefName": "兵庫県",
+      "muniName": "西宮市",
+      "rentPerSqm": 1687,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28205",
+      "prefName": "兵庫県",
+      "muniName": "洲本市",
+      "rentPerSqm": 1064,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28206",
+      "prefName": "兵庫県",
+      "muniName": "芦屋市",
+      "rentPerSqm": 1671,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28207",
+      "prefName": "兵庫県",
+      "muniName": "伊丹市",
+      "rentPerSqm": 1369,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28208",
+      "prefName": "兵庫県",
+      "muniName": "相生市",
+      "rentPerSqm": 925,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28209",
+      "prefName": "兵庫県",
+      "muniName": "豊岡市",
+      "rentPerSqm": 1088,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28210",
+      "prefName": "兵庫県",
+      "muniName": "加古川市",
+      "rentPerSqm": 1173,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28212",
+      "prefName": "兵庫県",
+      "muniName": "赤穂市",
+      "rentPerSqm": 934,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28213",
+      "prefName": "兵庫県",
+      "muniName": "西脇市",
+      "rentPerSqm": 914,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28214",
+      "prefName": "兵庫県",
+      "muniName": "宝塚市",
+      "rentPerSqm": 1411,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28215",
+      "prefName": "兵庫県",
+      "muniName": "三木市",
+      "rentPerSqm": 1086,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28216",
+      "prefName": "兵庫県",
+      "muniName": "高砂市",
+      "rentPerSqm": 1050,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28217",
+      "prefName": "兵庫県",
+      "muniName": "川西市",
+      "rentPerSqm": 1319,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28218",
+      "prefName": "兵庫県",
+      "muniName": "小野市",
+      "rentPerSqm": 1046,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28219",
+      "prefName": "兵庫県",
+      "muniName": "三田市",
+      "rentPerSqm": 1434,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28220",
+      "prefName": "兵庫県",
+      "muniName": "加西市",
+      "rentPerSqm": 1308,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28221",
+      "prefName": "兵庫県",
+      "muniName": "丹波篠山市",
+      "rentPerSqm": 983,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28222",
+      "prefName": "兵庫県",
+      "muniName": "養父市",
+      "rentPerSqm": 646,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28223",
+      "prefName": "兵庫県",
+      "muniName": "丹波市",
+      "rentPerSqm": 955,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28224",
+      "prefName": "兵庫県",
+      "muniName": "南あわじ市",
+      "rentPerSqm": 998,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28225",
+      "prefName": "兵庫県",
+      "muniName": "朝来市",
+      "rentPerSqm": 791,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28226",
+      "prefName": "兵庫県",
+      "muniName": "淡路市",
+      "rentPerSqm": 982,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28227",
+      "prefName": "兵庫県",
+      "muniName": "宍粟市",
+      "rentPerSqm": 906,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28228",
+      "prefName": "兵庫県",
+      "muniName": "加東市",
+      "rentPerSqm": 1077,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28229",
+      "prefName": "兵庫県",
+      "muniName": "たつの市",
+      "rentPerSqm": 884,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28301",
+      "prefName": "兵庫県",
+      "muniName": "猪名川町",
+      "rentPerSqm": 742,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28365",
+      "prefName": "兵庫県",
+      "muniName": "多可町",
+      "rentPerSqm": 399,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28381",
+      "prefName": "兵庫県",
+      "muniName": "稲美町",
+      "rentPerSqm": 1000,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28382",
+      "prefName": "兵庫県",
+      "muniName": "播磨町",
+      "rentPerSqm": 1085,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28443",
+      "prefName": "兵庫県",
+      "muniName": "福崎町",
+      "rentPerSqm": 1140,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28464",
+      "prefName": "兵庫県",
+      "muniName": "太子町",
+      "rentPerSqm": 1002,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28501",
+      "prefName": "兵庫県",
+      "muniName": "佐用町",
+      "rentPerSqm": 1251,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "28585",
+      "prefName": "兵庫県",
+      "muniName": "香美町",
+      "rentPerSqm": 443,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29201",
+      "prefName": "奈良県",
+      "muniName": "奈良市",
+      "rentPerSqm": 1247,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29202",
+      "prefName": "奈良県",
+      "muniName": "大和高田市",
+      "rentPerSqm": 1060,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29203",
+      "prefName": "奈良県",
+      "muniName": "大和郡山市",
+      "rentPerSqm": 1131,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29204",
+      "prefName": "奈良県",
+      "muniName": "天理市",
+      "rentPerSqm": 1095,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29205",
+      "prefName": "奈良県",
+      "muniName": "橿原市",
+      "rentPerSqm": 1107,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29206",
+      "prefName": "奈良県",
+      "muniName": "桜井市",
+      "rentPerSqm": 949,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29207",
+      "prefName": "奈良県",
+      "muniName": "五條市",
+      "rentPerSqm": 665,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29208",
+      "prefName": "奈良県",
+      "muniName": "御所市",
+      "rentPerSqm": 760,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29209",
+      "prefName": "奈良県",
+      "muniName": "生駒市",
+      "rentPerSqm": 1154,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29210",
+      "prefName": "奈良県",
+      "muniName": "香芝市",
+      "rentPerSqm": 1091,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29211",
+      "prefName": "奈良県",
+      "muniName": "葛城市",
+      "rentPerSqm": 978,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29212",
+      "prefName": "奈良県",
+      "muniName": "宇陀市",
+      "rentPerSqm": 830,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29342",
+      "prefName": "奈良県",
+      "muniName": "平群町",
+      "rentPerSqm": 799,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29343",
+      "prefName": "奈良県",
+      "muniName": "三郷町",
+      "rentPerSqm": 1023,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29344",
+      "prefName": "奈良県",
+      "muniName": "斑鳩町",
+      "rentPerSqm": 978,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29363",
+      "prefName": "奈良県",
+      "muniName": "田原本町",
+      "rentPerSqm": 961,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29424",
+      "prefName": "奈良県",
+      "muniName": "上牧町",
+      "rentPerSqm": 887,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29425",
+      "prefName": "奈良県",
+      "muniName": "王寺町",
+      "rentPerSqm": 1125,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29426",
+      "prefName": "奈良県",
+      "muniName": "広陵町",
+      "rentPerSqm": 825,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29427",
+      "prefName": "奈良県",
+      "muniName": "河合町",
+      "rentPerSqm": 1026,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "29442",
+      "prefName": "奈良県",
+      "muniName": "大淀町",
+      "rentPerSqm": 711,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30201",
+      "prefName": "和歌山県",
+      "muniName": "和歌山市",
+      "rentPerSqm": 1062,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30202",
+      "prefName": "和歌山県",
+      "muniName": "海南市",
+      "rentPerSqm": 786,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30203",
+      "prefName": "和歌山県",
+      "muniName": "橋本市",
+      "rentPerSqm": 906,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30204",
+      "prefName": "和歌山県",
+      "muniName": "有田市",
+      "rentPerSqm": 873,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30205",
+      "prefName": "和歌山県",
+      "muniName": "御坊市",
+      "rentPerSqm": 942,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30206",
+      "prefName": "和歌山県",
+      "muniName": "田辺市",
+      "rentPerSqm": 867,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30207",
+      "prefName": "和歌山県",
+      "muniName": "新宮市",
+      "rentPerSqm": 858,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30208",
+      "prefName": "和歌山県",
+      "muniName": "紀の川市",
+      "rentPerSqm": 786,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30209",
+      "prefName": "和歌山県",
+      "muniName": "岩出市",
+      "rentPerSqm": 971,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30341",
+      "prefName": "和歌山県",
+      "muniName": "かつらぎ町",
+      "rentPerSqm": 721,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30366",
+      "prefName": "和歌山県",
+      "muniName": "有田川町",
+      "rentPerSqm": 989,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30401",
+      "prefName": "和歌山県",
+      "muniName": "白浜町",
+      "rentPerSqm": 1162,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "30404",
+      "prefName": "和歌山県",
+      "muniName": "上富田町",
+      "rentPerSqm": 1134,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "31201",
+      "prefName": "鳥取県",
+      "muniName": "鳥取市",
+      "rentPerSqm": 1076,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "31202",
+      "prefName": "鳥取県",
+      "muniName": "米子市",
+      "rentPerSqm": 975,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "31203",
+      "prefName": "鳥取県",
+      "muniName": "倉吉市",
+      "rentPerSqm": 946,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "31204",
+      "prefName": "鳥取県",
+      "muniName": "境港市",
+      "rentPerSqm": 717,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "31329",
+      "prefName": "鳥取県",
+      "muniName": "八頭町",
+      "rentPerSqm": 739,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "31370",
+      "prefName": "鳥取県",
+      "muniName": "湯梨浜町",
+      "rentPerSqm": 981,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "31371",
+      "prefName": "鳥取県",
+      "muniName": "琴浦町",
+      "rentPerSqm": 866,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "31386",
+      "prefName": "鳥取県",
+      "muniName": "大山町",
+      "rentPerSqm": 387,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "32201",
+      "prefName": "島根県",
+      "muniName": "松江市",
+      "rentPerSqm": 1163,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "32202",
+      "prefName": "島根県",
+      "muniName": "浜田市",
+      "rentPerSqm": 982,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "32203",
+      "prefName": "島根県",
+      "muniName": "出雲市",
+      "rentPerSqm": 1104,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "32204",
+      "prefName": "島根県",
+      "muniName": "益田市",
+      "rentPerSqm": 837,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "32205",
+      "prefName": "島根県",
+      "muniName": "大田市",
+      "rentPerSqm": 802,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "32206",
+      "prefName": "島根県",
+      "muniName": "安来市",
+      "rentPerSqm": 733,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "32207",
+      "prefName": "島根県",
+      "muniName": "江津市",
+      "rentPerSqm": 861,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "32209",
+      "prefName": "島根県",
+      "muniName": "雲南市",
+      "rentPerSqm": 638,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33100",
+      "prefName": "岡山県",
+      "muniName": "岡山市",
+      "rentPerSqm": 1260,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33101",
+      "prefName": "岡山県",
+      "muniName": "岡山市　北区",
+      "rentPerSqm": 1417,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33102",
+      "prefName": "岡山県",
+      "muniName": "岡山市　中区",
+      "rentPerSqm": 1098,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33103",
+      "prefName": "岡山県",
+      "muniName": "岡山市　東区",
+      "rentPerSqm": 1009,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33104",
+      "prefName": "岡山県",
+      "muniName": "岡山市　南区",
+      "rentPerSqm": 1064,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33202",
+      "prefName": "岡山県",
+      "muniName": "倉敷市",
+      "rentPerSqm": 1109,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33203",
+      "prefName": "岡山県",
+      "muniName": "津山市",
+      "rentPerSqm": 947,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33204",
+      "prefName": "岡山県",
+      "muniName": "玉野市",
+      "rentPerSqm": 851,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33205",
+      "prefName": "岡山県",
+      "muniName": "笠岡市",
+      "rentPerSqm": 853,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33207",
+      "prefName": "岡山県",
+      "muniName": "井原市",
+      "rentPerSqm": 787,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33208",
+      "prefName": "岡山県",
+      "muniName": "総社市",
+      "rentPerSqm": 1040,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33209",
+      "prefName": "岡山県",
+      "muniName": "高梁市",
+      "rentPerSqm": 915,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33210",
+      "prefName": "岡山県",
+      "muniName": "新見市",
+      "rentPerSqm": 930,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33211",
+      "prefName": "岡山県",
+      "muniName": "備前市",
+      "rentPerSqm": 771,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33212",
+      "prefName": "岡山県",
+      "muniName": "瀬戸内市",
+      "rentPerSqm": 855,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33213",
+      "prefName": "岡山県",
+      "muniName": "赤磐市",
+      "rentPerSqm": 717,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33214",
+      "prefName": "岡山県",
+      "muniName": "真庭市",
+      "rentPerSqm": 856,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33215",
+      "prefName": "岡山県",
+      "muniName": "美作市",
+      "rentPerSqm": 940,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "33216",
+      "prefName": "岡山県",
+      "muniName": "浅口市",
+      "rentPerSqm": 792,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34100",
+      "prefName": "広島県",
+      "muniName": "広島市",
+      "rentPerSqm": 1369,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34101",
+      "prefName": "広島県",
+      "muniName": "広島市　中区",
+      "rentPerSqm": 1722,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34102",
+      "prefName": "広島県",
+      "muniName": "広島市　東区",
+      "rentPerSqm": 1388,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34103",
+      "prefName": "広島県",
+      "muniName": "広島市　南区",
+      "rentPerSqm": 1522,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34104",
+      "prefName": "広島県",
+      "muniName": "広島市　西区",
+      "rentPerSqm": 1326,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34105",
+      "prefName": "広島県",
+      "muniName": "広島市　安佐南区",
+      "rentPerSqm": 1265,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34106",
+      "prefName": "広島県",
+      "muniName": "広島市　安佐北区",
+      "rentPerSqm": 982,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34107",
+      "prefName": "広島県",
+      "muniName": "広島市　安芸区",
+      "rentPerSqm": 1131,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34108",
+      "prefName": "広島県",
+      "muniName": "広島市　佐伯区",
+      "rentPerSqm": 1134,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34202",
+      "prefName": "広島県",
+      "muniName": "呉市",
+      "rentPerSqm": 1127,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34203",
+      "prefName": "広島県",
+      "muniName": "竹原市",
+      "rentPerSqm": 929,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34204",
+      "prefName": "広島県",
+      "muniName": "三原市",
+      "rentPerSqm": 911,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34205",
+      "prefName": "広島県",
+      "muniName": "尾道市",
+      "rentPerSqm": 971,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34207",
+      "prefName": "広島県",
+      "muniName": "福山市",
+      "rentPerSqm": 1127,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34208",
+      "prefName": "広島県",
+      "muniName": "府中市",
+      "rentPerSqm": 805,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34209",
+      "prefName": "広島県",
+      "muniName": "三次市",
+      "rentPerSqm": 1000,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34210",
+      "prefName": "広島県",
+      "muniName": "庄原市",
+      "rentPerSqm": 1049,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34211",
+      "prefName": "広島県",
+      "muniName": "大竹市",
+      "rentPerSqm": 951,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34212",
+      "prefName": "広島県",
+      "muniName": "東広島市",
+      "rentPerSqm": 1186,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34213",
+      "prefName": "広島県",
+      "muniName": "廿日市市",
+      "rentPerSqm": 1113,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34214",
+      "prefName": "広島県",
+      "muniName": "安芸高田市",
+      "rentPerSqm": 623,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34215",
+      "prefName": "広島県",
+      "muniName": "江田島市",
+      "rentPerSqm": 783,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34302",
+      "prefName": "広島県",
+      "muniName": "府中町",
+      "rentPerSqm": 1363,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34304",
+      "prefName": "広島県",
+      "muniName": "海田町",
+      "rentPerSqm": 1294,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34307",
+      "prefName": "広島県",
+      "muniName": "熊野町",
+      "rentPerSqm": 820,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34369",
+      "prefName": "広島県",
+      "muniName": "北広島町",
+      "rentPerSqm": 570,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "34462",
+      "prefName": "広島県",
+      "muniName": "世羅町",
+      "rentPerSqm": 816,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35201",
+      "prefName": "山口県",
+      "muniName": "下関市",
+      "rentPerSqm": 990,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35202",
+      "prefName": "山口県",
+      "muniName": "宇部市",
+      "rentPerSqm": 1067,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35203",
+      "prefName": "山口県",
+      "muniName": "山口市",
+      "rentPerSqm": 1074,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35204",
+      "prefName": "山口県",
+      "muniName": "萩市",
+      "rentPerSqm": 810,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35206",
+      "prefName": "山口県",
+      "muniName": "防府市",
+      "rentPerSqm": 978,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35207",
+      "prefName": "山口県",
+      "muniName": "下松市",
+      "rentPerSqm": 1190,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35208",
+      "prefName": "山口県",
+      "muniName": "岩国市",
+      "rentPerSqm": 992,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35210",
+      "prefName": "山口県",
+      "muniName": "光市",
+      "rentPerSqm": 929,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35211",
+      "prefName": "山口県",
+      "muniName": "長門市",
+      "rentPerSqm": 782,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35212",
+      "prefName": "山口県",
+      "muniName": "柳井市",
+      "rentPerSqm": 833,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35213",
+      "prefName": "山口県",
+      "muniName": "美祢市",
+      "rentPerSqm": 601,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35215",
+      "prefName": "山口県",
+      "muniName": "周南市",
+      "rentPerSqm": 1040,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "35216",
+      "prefName": "山口県",
+      "muniName": "山陽小野田市",
+      "rentPerSqm": 1060,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36201",
+      "prefName": "徳島県",
+      "muniName": "徳島市",
+      "rentPerSqm": 1119,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36202",
+      "prefName": "徳島県",
+      "muniName": "鳴門市",
+      "rentPerSqm": 884,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36203",
+      "prefName": "徳島県",
+      "muniName": "小松島市",
+      "rentPerSqm": 889,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36204",
+      "prefName": "徳島県",
+      "muniName": "阿南市",
+      "rentPerSqm": 988,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36205",
+      "prefName": "徳島県",
+      "muniName": "吉野川市",
+      "rentPerSqm": 841,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36206",
+      "prefName": "徳島県",
+      "muniName": "阿波市",
+      "rentPerSqm": 770,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36207",
+      "prefName": "徳島県",
+      "muniName": "美馬市",
+      "rentPerSqm": 695,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36208",
+      "prefName": "徳島県",
+      "muniName": "三好市",
+      "rentPerSqm": 769,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36341",
+      "prefName": "徳島県",
+      "muniName": "石井町",
+      "rentPerSqm": 940,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36402",
+      "prefName": "徳島県",
+      "muniName": "北島町",
+      "rentPerSqm": 1066,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "36403",
+      "prefName": "徳島県",
+      "muniName": "藍住町",
+      "rentPerSqm": 1049,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37201",
+      "prefName": "香川県",
+      "muniName": "高松市",
+      "rentPerSqm": 1116,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37202",
+      "prefName": "香川県",
+      "muniName": "丸亀市",
+      "rentPerSqm": 1001,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37203",
+      "prefName": "香川県",
+      "muniName": "坂出市",
+      "rentPerSqm": 839,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37204",
+      "prefName": "香川県",
+      "muniName": "善通寺市",
+      "rentPerSqm": 1029,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37205",
+      "prefName": "香川県",
+      "muniName": "観音寺市",
+      "rentPerSqm": 994,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37206",
+      "prefName": "香川県",
+      "muniName": "さぬき市",
+      "rentPerSqm": 807,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37207",
+      "prefName": "香川県",
+      "muniName": "東かがわ市",
+      "rentPerSqm": 624,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37208",
+      "prefName": "香川県",
+      "muniName": "三豊市",
+      "rentPerSqm": 820,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37341",
+      "prefName": "香川県",
+      "muniName": "三木町",
+      "rentPerSqm": 820,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37386",
+      "prefName": "香川県",
+      "muniName": "宇多津町",
+      "rentPerSqm": 1075,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37387",
+      "prefName": "香川県",
+      "muniName": "綾川町",
+      "rentPerSqm": 796,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37404",
+      "prefName": "香川県",
+      "muniName": "多度津町",
+      "rentPerSqm": 919,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "37406",
+      "prefName": "香川県",
+      "muniName": "まんのう町",
+      "rentPerSqm": 775,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38201",
+      "prefName": "愛媛県",
+      "muniName": "松山市",
+      "rentPerSqm": 1043,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38202",
+      "prefName": "愛媛県",
+      "muniName": "今治市",
+      "rentPerSqm": 960,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38203",
+      "prefName": "愛媛県",
+      "muniName": "宇和島市",
+      "rentPerSqm": 886,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38204",
+      "prefName": "愛媛県",
+      "muniName": "八幡浜市",
+      "rentPerSqm": 686,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38205",
+      "prefName": "愛媛県",
+      "muniName": "新居浜市",
+      "rentPerSqm": 964,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38206",
+      "prefName": "愛媛県",
+      "muniName": "西条市",
+      "rentPerSqm": 851,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38207",
+      "prefName": "愛媛県",
+      "muniName": "大洲市",
+      "rentPerSqm": 828,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38210",
+      "prefName": "愛媛県",
+      "muniName": "伊予市",
+      "rentPerSqm": 774,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38213",
+      "prefName": "愛媛県",
+      "muniName": "四国中央市",
+      "rentPerSqm": 907,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38214",
+      "prefName": "愛媛県",
+      "muniName": "西予市",
+      "rentPerSqm": 764,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38215",
+      "prefName": "愛媛県",
+      "muniName": "東温市",
+      "rentPerSqm": 980,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38401",
+      "prefName": "愛媛県",
+      "muniName": "松前町",
+      "rentPerSqm": 826,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38402",
+      "prefName": "愛媛県",
+      "muniName": "砥部町",
+      "rentPerSqm": 919,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38422",
+      "prefName": "愛媛県",
+      "muniName": "内子町",
+      "rentPerSqm": 735,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "38506",
+      "prefName": "愛媛県",
+      "muniName": "愛南町",
+      "rentPerSqm": 530,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39201",
+      "prefName": "高知県",
+      "muniName": "高知市",
+      "rentPerSqm": 1056,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39202",
+      "prefName": "高知県",
+      "muniName": "室戸市",
+      "rentPerSqm": 309,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39203",
+      "prefName": "高知県",
+      "muniName": "安芸市",
+      "rentPerSqm": 900,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39204",
+      "prefName": "高知県",
+      "muniName": "南国市",
+      "rentPerSqm": 1076,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39205",
+      "prefName": "高知県",
+      "muniName": "土佐市",
+      "rentPerSqm": 742,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39206",
+      "prefName": "高知県",
+      "muniName": "須崎市",
+      "rentPerSqm": 846,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39208",
+      "prefName": "高知県",
+      "muniName": "宿毛市",
+      "rentPerSqm": 749,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39209",
+      "prefName": "高知県",
+      "muniName": "土佐清水市",
+      "rentPerSqm": 405,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39210",
+      "prefName": "高知県",
+      "muniName": "四万十市",
+      "rentPerSqm": 818,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39211",
+      "prefName": "高知県",
+      "muniName": "香南市",
+      "rentPerSqm": 958,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39212",
+      "prefName": "高知県",
+      "muniName": "香美市",
+      "rentPerSqm": 930,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39386",
+      "prefName": "高知県",
+      "muniName": "いの町",
+      "rentPerSqm": 889,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "39412",
+      "prefName": "高知県",
+      "muniName": "四万十町",
+      "rentPerSqm": 556,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40100",
+      "prefName": "福岡県",
+      "muniName": "北九州市",
+      "rentPerSqm": 1162,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40101",
+      "prefName": "福岡県",
+      "muniName": "北九州市　門司区",
+      "rentPerSqm": 1108,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40103",
+      "prefName": "福岡県",
+      "muniName": "北九州市　若松区",
+      "rentPerSqm": 1010,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40105",
+      "prefName": "福岡県",
+      "muniName": "北九州市　戸畑区",
+      "rentPerSqm": 1235,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40106",
+      "prefName": "福岡県",
+      "muniName": "北九州市　小倉北区",
+      "rentPerSqm": 1262,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40107",
+      "prefName": "福岡県",
+      "muniName": "北九州市　小倉南区",
+      "rentPerSqm": 1107,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40108",
+      "prefName": "福岡県",
+      "muniName": "北九州市　八幡東区",
+      "rentPerSqm": 1073,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40109",
+      "prefName": "福岡県",
+      "muniName": "北九州市　八幡西区",
+      "rentPerSqm": 1132,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40130",
+      "prefName": "福岡県",
+      "muniName": "福岡市",
+      "rentPerSqm": 1488,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40131",
+      "prefName": "福岡県",
+      "muniName": "福岡市　東区",
+      "rentPerSqm": 1317,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40132",
+      "prefName": "福岡県",
+      "muniName": "福岡市　博多区",
+      "rentPerSqm": 1622,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40133",
+      "prefName": "福岡県",
+      "muniName": "福岡市　中央区",
+      "rentPerSqm": 1813,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40134",
+      "prefName": "福岡県",
+      "muniName": "福岡市　南区",
+      "rentPerSqm": 1394,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40135",
+      "prefName": "福岡県",
+      "muniName": "福岡市　西区",
+      "rentPerSqm": 1305,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40136",
+      "prefName": "福岡県",
+      "muniName": "福岡市　城南区",
+      "rentPerSqm": 1346,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40137",
+      "prefName": "福岡県",
+      "muniName": "福岡市　早良区",
+      "rentPerSqm": 1400,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40202",
+      "prefName": "福岡県",
+      "muniName": "大牟田市",
+      "rentPerSqm": 923,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40203",
+      "prefName": "福岡県",
+      "muniName": "久留米市",
+      "rentPerSqm": 1079,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40204",
+      "prefName": "福岡県",
+      "muniName": "直方市",
+      "rentPerSqm": 860,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40205",
+      "prefName": "福岡県",
+      "muniName": "飯塚市",
+      "rentPerSqm": 1018,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40206",
+      "prefName": "福岡県",
+      "muniName": "田川市",
+      "rentPerSqm": 994,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40207",
+      "prefName": "福岡県",
+      "muniName": "柳川市",
+      "rentPerSqm": 983,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40210",
+      "prefName": "福岡県",
+      "muniName": "八女市",
+      "rentPerSqm": 927,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40211",
+      "prefName": "福岡県",
+      "muniName": "筑後市",
+      "rentPerSqm": 951,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40212",
+      "prefName": "福岡県",
+      "muniName": "大川市",
+      "rentPerSqm": 917,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40213",
+      "prefName": "福岡県",
+      "muniName": "行橋市",
+      "rentPerSqm": 1006,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40214",
+      "prefName": "福岡県",
+      "muniName": "豊前市",
+      "rentPerSqm": 816,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40215",
+      "prefName": "福岡県",
+      "muniName": "中間市",
+      "rentPerSqm": 897,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40216",
+      "prefName": "福岡県",
+      "muniName": "小郡市",
+      "rentPerSqm": 969,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40217",
+      "prefName": "福岡県",
+      "muniName": "筑紫野市",
+      "rentPerSqm": 1101,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40218",
+      "prefName": "福岡県",
+      "muniName": "春日市",
+      "rentPerSqm": 1105,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40219",
+      "prefName": "福岡県",
+      "muniName": "大野城市",
+      "rentPerSqm": 1218,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40220",
+      "prefName": "福岡県",
+      "muniName": "宗像市",
+      "rentPerSqm": 1144,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40221",
+      "prefName": "福岡県",
+      "muniName": "太宰府市",
+      "rentPerSqm": 1110,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40223",
+      "prefName": "福岡県",
+      "muniName": "古賀市",
+      "rentPerSqm": 1122,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40224",
+      "prefName": "福岡県",
+      "muniName": "福津市",
+      "rentPerSqm": 1089,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40225",
+      "prefName": "福岡県",
+      "muniName": "うきは市",
+      "rentPerSqm": 850,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40226",
+      "prefName": "福岡県",
+      "muniName": "宮若市",
+      "rentPerSqm": 837,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40227",
+      "prefName": "福岡県",
+      "muniName": "嘉麻市",
+      "rentPerSqm": 623,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40228",
+      "prefName": "福岡県",
+      "muniName": "朝倉市",
+      "rentPerSqm": 897,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40229",
+      "prefName": "福岡県",
+      "muniName": "みやま市",
+      "rentPerSqm": 673,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40230",
+      "prefName": "福岡県",
+      "muniName": "糸島市",
+      "rentPerSqm": 951,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40231",
+      "prefName": "福岡県",
+      "muniName": "那珂川市",
+      "rentPerSqm": 1047,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40341",
+      "prefName": "福岡県",
+      "muniName": "宇美町",
+      "rentPerSqm": 1105,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40342",
+      "prefName": "福岡県",
+      "muniName": "篠栗町",
+      "rentPerSqm": 1083,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40343",
+      "prefName": "福岡県",
+      "muniName": "志免町",
+      "rentPerSqm": 1109,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40344",
+      "prefName": "福岡県",
+      "muniName": "須恵町",
+      "rentPerSqm": 1033,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40345",
+      "prefName": "福岡県",
+      "muniName": "新宮町",
+      "rentPerSqm": 1188,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40349",
+      "prefName": "福岡県",
+      "muniName": "粕屋町",
+      "rentPerSqm": 1196,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40382",
+      "prefName": "福岡県",
+      "muniName": "水巻町",
+      "rentPerSqm": 986,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40383",
+      "prefName": "福岡県",
+      "muniName": "岡垣町",
+      "rentPerSqm": 801,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40384",
+      "prefName": "福岡県",
+      "muniName": "遠賀町",
+      "rentPerSqm": 954,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40402",
+      "prefName": "福岡県",
+      "muniName": "鞍手町",
+      "rentPerSqm": 517,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40447",
+      "prefName": "福岡県",
+      "muniName": "筑前町",
+      "rentPerSqm": 974,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40503",
+      "prefName": "福岡県",
+      "muniName": "大刀洗町",
+      "rentPerSqm": 826,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40544",
+      "prefName": "福岡県",
+      "muniName": "広川町",
+      "rentPerSqm": 935,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40605",
+      "prefName": "福岡県",
+      "muniName": "川崎町",
+      "rentPerSqm": 504,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40610",
+      "prefName": "福岡県",
+      "muniName": "福智町",
+      "rentPerSqm": 846,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40621",
+      "prefName": "福岡県",
+      "muniName": "苅田町",
+      "rentPerSqm": 1002,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40625",
+      "prefName": "福岡県",
+      "muniName": "みやこ町",
+      "rentPerSqm": 459,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "40647",
+      "prefName": "福岡県",
+      "muniName": "築上町",
+      "rentPerSqm": 824,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41201",
+      "prefName": "佐賀県",
+      "muniName": "佐賀市",
+      "rentPerSqm": 1091,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41202",
+      "prefName": "佐賀県",
+      "muniName": "唐津市",
+      "rentPerSqm": 916,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41203",
+      "prefName": "佐賀県",
+      "muniName": "鳥栖市",
+      "rentPerSqm": 1118,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41204",
+      "prefName": "佐賀県",
+      "muniName": "多久市",
+      "rentPerSqm": 594,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41205",
+      "prefName": "佐賀県",
+      "muniName": "伊万里市",
+      "rentPerSqm": 922,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41206",
+      "prefName": "佐賀県",
+      "muniName": "武雄市",
+      "rentPerSqm": 975,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41207",
+      "prefName": "佐賀県",
+      "muniName": "鹿島市",
+      "rentPerSqm": 863,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41208",
+      "prefName": "佐賀県",
+      "muniName": "小城市",
+      "rentPerSqm": 862,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41209",
+      "prefName": "佐賀県",
+      "muniName": "嬉野市",
+      "rentPerSqm": 772,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41210",
+      "prefName": "佐賀県",
+      "muniName": "神埼市",
+      "rentPerSqm": 948,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41327",
+      "prefName": "佐賀県",
+      "muniName": "吉野ヶ里町",
+      "rentPerSqm": 793,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41341",
+      "prefName": "佐賀県",
+      "muniName": "基山町",
+      "rentPerSqm": 1209,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41346",
+      "prefName": "佐賀県",
+      "muniName": "みやき町",
+      "rentPerSqm": 892,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41401",
+      "prefName": "佐賀県",
+      "muniName": "有田町",
+      "rentPerSqm": 752,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "41425",
+      "prefName": "佐賀県",
+      "muniName": "白石町",
+      "rentPerSqm": 1048,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42201",
+      "prefName": "長崎県",
+      "muniName": "長崎市",
+      "rentPerSqm": 1268,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42202",
+      "prefName": "長崎県",
+      "muniName": "佐世保市",
+      "rentPerSqm": 1016,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42203",
+      "prefName": "長崎県",
+      "muniName": "島原市",
+      "rentPerSqm": 799,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42204",
+      "prefName": "長崎県",
+      "muniName": "諫早市",
+      "rentPerSqm": 1001,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42205",
+      "prefName": "長崎県",
+      "muniName": "大村市",
+      "rentPerSqm": 989,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42207",
+      "prefName": "長崎県",
+      "muniName": "平戸市",
+      "rentPerSqm": 653,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42208",
+      "prefName": "長崎県",
+      "muniName": "松浦市",
+      "rentPerSqm": 617,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42209",
+      "prefName": "長崎県",
+      "muniName": "対馬市",
+      "rentPerSqm": 680,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42210",
+      "prefName": "長崎県",
+      "muniName": "壱岐市",
+      "rentPerSqm": 546,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42211",
+      "prefName": "長崎県",
+      "muniName": "五島市",
+      "rentPerSqm": 715,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42212",
+      "prefName": "長崎県",
+      "muniName": "西海市",
+      "rentPerSqm": 559,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42213",
+      "prefName": "長崎県",
+      "muniName": "雲仙市",
+      "rentPerSqm": 771,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42214",
+      "prefName": "長崎県",
+      "muniName": "南島原市",
+      "rentPerSqm": 525,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42307",
+      "prefName": "長崎県",
+      "muniName": "長与町",
+      "rentPerSqm": 1031,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42308",
+      "prefName": "長崎県",
+      "muniName": "時津町",
+      "rentPerSqm": 1106,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "42411",
+      "prefName": "長崎県",
+      "muniName": "新上五島町",
+      "rentPerSqm": 371,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43100",
+      "prefName": "熊本県",
+      "muniName": "熊本市",
+      "rentPerSqm": 1152,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43101",
+      "prefName": "熊本県",
+      "muniName": "熊本市　中央区",
+      "rentPerSqm": 1295,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43102",
+      "prefName": "熊本県",
+      "muniName": "熊本市　東区",
+      "rentPerSqm": 1086,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43103",
+      "prefName": "熊本県",
+      "muniName": "熊本市　西区",
+      "rentPerSqm": 1168,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43104",
+      "prefName": "熊本県",
+      "muniName": "熊本市　南区",
+      "rentPerSqm": 1075,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43105",
+      "prefName": "熊本県",
+      "muniName": "熊本市　北区",
+      "rentPerSqm": 967,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43202",
+      "prefName": "熊本県",
+      "muniName": "八代市",
+      "rentPerSqm": 878,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43203",
+      "prefName": "熊本県",
+      "muniName": "人吉市",
+      "rentPerSqm": 892,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43204",
+      "prefName": "熊本県",
+      "muniName": "荒尾市",
+      "rentPerSqm": 855,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43205",
+      "prefName": "熊本県",
+      "muniName": "水俣市",
+      "rentPerSqm": 740,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43206",
+      "prefName": "熊本県",
+      "muniName": "玉名市",
+      "rentPerSqm": 776,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43208",
+      "prefName": "熊本県",
+      "muniName": "山鹿市",
+      "rentPerSqm": 757,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43210",
+      "prefName": "熊本県",
+      "muniName": "菊池市",
+      "rentPerSqm": 930,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43211",
+      "prefName": "熊本県",
+      "muniName": "宇土市",
+      "rentPerSqm": 881,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43212",
+      "prefName": "熊本県",
+      "muniName": "上天草市",
+      "rentPerSqm": 657,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43213",
+      "prefName": "熊本県",
+      "muniName": "宇城市",
+      "rentPerSqm": 846,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43214",
+      "prefName": "熊本県",
+      "muniName": "阿蘇市",
+      "rentPerSqm": 798,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43215",
+      "prefName": "熊本県",
+      "muniName": "天草市",
+      "rentPerSqm": 759,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43216",
+      "prefName": "熊本県",
+      "muniName": "合志市",
+      "rentPerSqm": 1095,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43368",
+      "prefName": "熊本県",
+      "muniName": "長洲町",
+      "rentPerSqm": 767,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43403",
+      "prefName": "熊本県",
+      "muniName": "大津町",
+      "rentPerSqm": 1020,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43404",
+      "prefName": "熊本県",
+      "muniName": "菊陽町",
+      "rentPerSqm": 1138,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43441",
+      "prefName": "熊本県",
+      "muniName": "御船町",
+      "rentPerSqm": 1030,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43443",
+      "prefName": "熊本県",
+      "muniName": "益城町",
+      "rentPerSqm": 906,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "43482",
+      "prefName": "熊本県",
+      "muniName": "芦北町",
+      "rentPerSqm": 603,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44201",
+      "prefName": "大分県",
+      "muniName": "大分市",
+      "rentPerSqm": 1145,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44202",
+      "prefName": "大分県",
+      "muniName": "別府市",
+      "rentPerSqm": 1011,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44203",
+      "prefName": "大分県",
+      "muniName": "中津市",
+      "rentPerSqm": 957,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44204",
+      "prefName": "大分県",
+      "muniName": "日田市",
+      "rentPerSqm": 912,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44205",
+      "prefName": "大分県",
+      "muniName": "佐伯市",
+      "rentPerSqm": 814,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44206",
+      "prefName": "大分県",
+      "muniName": "臼杵市",
+      "rentPerSqm": 882,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44207",
+      "prefName": "大分県",
+      "muniName": "津久見市",
+      "rentPerSqm": 611,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44208",
+      "prefName": "大分県",
+      "muniName": "竹田市",
+      "rentPerSqm": 642,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44209",
+      "prefName": "大分県",
+      "muniName": "豊後高田市",
+      "rentPerSqm": 721,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44210",
+      "prefName": "大分県",
+      "muniName": "杵築市",
+      "rentPerSqm": 826,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44211",
+      "prefName": "大分県",
+      "muniName": "宇佐市",
+      "rentPerSqm": 835,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44212",
+      "prefName": "大分県",
+      "muniName": "豊後大野市",
+      "rentPerSqm": 843,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44213",
+      "prefName": "大分県",
+      "muniName": "由布市",
+      "rentPerSqm": 961,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44214",
+      "prefName": "大分県",
+      "muniName": "国東市",
+      "rentPerSqm": 640,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "44341",
+      "prefName": "大分県",
+      "muniName": "日出町",
+      "rentPerSqm": 883,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45201",
+      "prefName": "宮崎県",
+      "muniName": "宮崎市",
+      "rentPerSqm": 1092,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45202",
+      "prefName": "宮崎県",
+      "muniName": "都城市",
+      "rentPerSqm": 860,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45203",
+      "prefName": "宮崎県",
+      "muniName": "延岡市",
+      "rentPerSqm": 956,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45204",
+      "prefName": "宮崎県",
+      "muniName": "日南市",
+      "rentPerSqm": 773,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45205",
+      "prefName": "宮崎県",
+      "muniName": "小林市",
+      "rentPerSqm": 751,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45206",
+      "prefName": "宮崎県",
+      "muniName": "日向市",
+      "rentPerSqm": 838,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45207",
+      "prefName": "宮崎県",
+      "muniName": "串間市",
+      "rentPerSqm": 654,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45208",
+      "prefName": "宮崎県",
+      "muniName": "西都市",
+      "rentPerSqm": 775,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45209",
+      "prefName": "宮崎県",
+      "muniName": "えびの市",
+      "rentPerSqm": 582,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45341",
+      "prefName": "宮崎県",
+      "muniName": "三股町",
+      "rentPerSqm": 713,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45382",
+      "prefName": "宮崎県",
+      "muniName": "国富町",
+      "rentPerSqm": 627,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45401",
+      "prefName": "宮崎県",
+      "muniName": "高鍋町",
+      "rentPerSqm": 810,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45402",
+      "prefName": "宮崎県",
+      "muniName": "新富町",
+      "rentPerSqm": 687,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45405",
+      "prefName": "宮崎県",
+      "muniName": "川南町",
+      "rentPerSqm": 727,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "45421",
+      "prefName": "宮崎県",
+      "muniName": "門川町",
+      "rentPerSqm": 960,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46201",
+      "prefName": "鹿児島県",
+      "muniName": "鹿児島市",
+      "rentPerSqm": 1177,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46203",
+      "prefName": "鹿児島県",
+      "muniName": "鹿屋市",
+      "rentPerSqm": 789,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46204",
+      "prefName": "鹿児島県",
+      "muniName": "枕崎市",
+      "rentPerSqm": 617,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46206",
+      "prefName": "鹿児島県",
+      "muniName": "阿久根市",
+      "rentPerSqm": 669,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46208",
+      "prefName": "鹿児島県",
+      "muniName": "出水市",
+      "rentPerSqm": 751,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46210",
+      "prefName": "鹿児島県",
+      "muniName": "指宿市",
+      "rentPerSqm": 675,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46213",
+      "prefName": "鹿児島県",
+      "muniName": "西之表市",
+      "rentPerSqm": 892,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46214",
+      "prefName": "鹿児島県",
+      "muniName": "垂水市",
+      "rentPerSqm": 661,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46215",
+      "prefName": "鹿児島県",
+      "muniName": "薩摩川内市",
+      "rentPerSqm": 829,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46216",
+      "prefName": "鹿児島県",
+      "muniName": "日置市",
+      "rentPerSqm": 782,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46217",
+      "prefName": "鹿児島県",
+      "muniName": "曽於市",
+      "rentPerSqm": 614,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46218",
+      "prefName": "鹿児島県",
+      "muniName": "霧島市",
+      "rentPerSqm": 872,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46219",
+      "prefName": "鹿児島県",
+      "muniName": "いちき串木野市",
+      "rentPerSqm": 800,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46220",
+      "prefName": "鹿児島県",
+      "muniName": "南さつま市",
+      "rentPerSqm": 777,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46221",
+      "prefName": "鹿児島県",
+      "muniName": "志布志市",
+      "rentPerSqm": 728,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46222",
+      "prefName": "鹿児島県",
+      "muniName": "奄美市",
+      "rentPerSqm": 825,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46223",
+      "prefName": "鹿児島県",
+      "muniName": "南九州市",
+      "rentPerSqm": 603,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46224",
+      "prefName": "鹿児島県",
+      "muniName": "伊佐市",
+      "rentPerSqm": 627,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46225",
+      "prefName": "鹿児島県",
+      "muniName": "姶良市",
+      "rentPerSqm": 941,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "46392",
+      "prefName": "鹿児島県",
+      "muniName": "さつま町",
+      "rentPerSqm": 504,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47201",
+      "prefName": "沖縄県",
+      "muniName": "那覇市",
+      "rentPerSqm": 1320,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47205",
+      "prefName": "沖縄県",
+      "muniName": "宜野湾市",
+      "rentPerSqm": 1180,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47207",
+      "prefName": "沖縄県",
+      "muniName": "石垣市",
+      "rentPerSqm": 1201,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47208",
+      "prefName": "沖縄県",
+      "muniName": "浦添市",
+      "rentPerSqm": 1180,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47209",
+      "prefName": "沖縄県",
+      "muniName": "名護市",
+      "rentPerSqm": 1084,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47210",
+      "prefName": "沖縄県",
+      "muniName": "糸満市",
+      "rentPerSqm": 1072,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47211",
+      "prefName": "沖縄県",
+      "muniName": "沖縄市",
+      "rentPerSqm": 1020,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47212",
+      "prefName": "沖縄県",
+      "muniName": "豊見城市",
+      "rentPerSqm": 1172,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47213",
+      "prefName": "沖縄県",
+      "muniName": "うるま市",
+      "rentPerSqm": 1029,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47214",
+      "prefName": "沖縄県",
+      "muniName": "宮古島市",
+      "rentPerSqm": 1119,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47215",
+      "prefName": "沖縄県",
+      "muniName": "南城市",
+      "rentPerSqm": 1008,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47324",
+      "prefName": "沖縄県",
+      "muniName": "読谷村",
+      "rentPerSqm": 956,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47326",
+      "prefName": "沖縄県",
+      "muniName": "北谷町",
+      "rentPerSqm": 1379,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47327",
+      "prefName": "沖縄県",
+      "muniName": "北中城村",
+      "rentPerSqm": 1090,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47328",
+      "prefName": "沖縄県",
+      "muniName": "中城村",
+      "rentPerSqm": 1288,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47329",
+      "prefName": "沖縄県",
+      "muniName": "西原町",
+      "rentPerSqm": 1130,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47348",
+      "prefName": "沖縄県",
+      "muniName": "与那原町",
+      "rentPerSqm": 1100,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47350",
+      "prefName": "沖縄県",
+      "muniName": "南風原町",
+      "rentPerSqm": 1171,
+      "surveyYear": 2023
+    },
+    {
+      "muniCode": "47362",
+      "prefName": "沖縄県",
+      "muniName": "八重瀬町",
+      "rentPerSqm": 1166,
+      "surveyYear": 2023
+    }
   ]
 }
