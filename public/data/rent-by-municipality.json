@@ -1,0 +1,17 @@
+{
+  "surveyYear": 2023,
+  "generatedAt": "2026-08-16T00:00:00.000Z",
+  "note": "これは開発確認用の仮データです。npm run fetch-data 実行後、e-Statの実データで上書きされます。",
+  "records": [
+    { "muniCode": "13101", "prefName": "東京都", "muniName": "千代田区", "rentPerSqm": 4200, "surveyYear": 2023 },
+    { "muniCode": "13102", "prefName": "東京都", "muniName": "中央区", "rentPerSqm": 4000, "surveyYear": 2023 },
+    { "muniCode": "13103", "prefName": "東京都", "muniName": "港区", "rentPerSqm": 4300, "surveyYear": 2023 },
+    { "muniCode": "13104", "prefName": "東京都", "muniName": "新宿区", "rentPerSqm": 3400, "surveyYear": 2023 },
+    { "muniCode": "13113", "prefName": "東京都", "muniName": "渋谷区", "rentPerSqm": 3800, "surveyYear": 2023 },
+    { "muniCode": "14100", "prefName": "神奈川県", "muniName": "横浜市", "rentPerSqm": 2400, "surveyYear": 2023 },
+    { "muniCode": "23100", "prefName": "愛知県", "muniName": "名古屋市", "rentPerSqm": 1900, "surveyYear": 2023 },
+    { "muniCode": "27100", "prefName": "大阪府", "muniName": "大阪市", "rentPerSqm": 2100, "surveyYear": 2023 },
+    { "muniCode": "01100", "prefName": "北海道", "muniName": "札幌市", "rentPerSqm": 1500, "surveyYear": 2023 },
+    { "muniCode": "40100", "prefName": "福岡県", "muniName": "北九州市", "rentPerSqm": 1200, "surveyYear": 2023 }
+  ]
+}
