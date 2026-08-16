@@ -1,7 +1,4 @@
-export interface MuniTableEntry {
-  prefName: string;
-  muniName: string;
-}
+import type { MuniTableEntry } from '../src/core/types.js';
 
 export function parseMuniJs(rawText: string): Record<string, MuniTableEntry> {
   const result: Record<string, MuniTableEntry> = {};

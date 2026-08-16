@@ -1,4 +1,4 @@
-import type { MuniInfo } from './types.js';
+import type { MuniInfo, MuniTable } from './types.js';
 
 export function parseReverseGeocodeResponse(json: unknown): { muniCd: string } | null {
   if (typeof json !== 'object' || json === null || !('results' in json)) {
@@ -15,10 +15,7 @@ export function parseReverseGeocodeResponse(json: unknown): { muniCd: string } |
   return { muniCd };
 }
 
-export function resolveMuniInfo(
-  muniCd: string,
-  muniTable: Record<string, { prefName: string; muniName: string }>,
-): MuniInfo | null {
+export function resolveMuniInfo(muniCd: string, muniTable: MuniTable): MuniInfo | null {
   const entry = muniTable[muniCd];
   if (!entry) {
     return null;

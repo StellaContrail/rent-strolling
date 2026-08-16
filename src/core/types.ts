@@ -4,6 +4,13 @@ export interface MuniInfo {
   muniName: string;
 }
 
+export interface MuniTableEntry {
+  prefName: string;
+  muniName: string;
+}
+
+export type MuniTable = Record<string, MuniTableEntry>;
+
 export interface RentRecord {
   muniCode: string;
   prefName: string;

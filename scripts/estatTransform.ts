@@ -1,5 +1,4 @@
-import type { RentRecord } from '../src/core/types.js';
-import type { MuniTableEntry } from './muniJsParser.js';
+import type { MuniTableEntry, RentRecord } from '../src/core/types.js';
 
 interface EstatValue {
   '@area'?: string;
