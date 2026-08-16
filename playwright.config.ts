@@ -9,7 +9,7 @@ export default defineConfig({
   use: {
     baseURL: 'http://localhost:4173/rent-strolling/',
     trace: 'on-first-retry',
-    video: 'retain-on-failure',
+    video: 'on',
   },
   projects: [{ name: 'chromium', use: { ...devices['Desktop Chrome'] } }],
   webServer: {
