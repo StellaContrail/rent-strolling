@@ -7,13 +7,13 @@ export default defineConfig({
   retries: process.env.CI ? 1 : 0,
   reporter: process.env.CI ? 'github' : 'list',
   use: {
-    baseURL: 'http://localhost:4173',
+    baseURL: 'http://localhost:4173/rent-strolling/',
     trace: 'on-first-retry',
   },
   projects: [{ name: 'chromium', use: { ...devices['Desktop Chrome'] } }],
   webServer: {
     command: 'npm run build && npm run preview -- --port 4173',
-    url: 'http://localhost:4173',
+    url: 'http://localhost:4173/rent-strolling/',
     reuseExistingServer: !process.env.CI,
   },
 });
