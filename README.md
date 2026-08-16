@@ -1,5 +1,10 @@
 # ぶらり家賃旅
+
+[![CI](https://github.com/StellaContrail/rent-strolling/actions/workflows/ci.yml/badge.svg)](https://github.com/StellaContrail/rent-strolling/actions/workflows/ci.yml)
+
 散歩中にその場所周辺の家賃がどれくらいかを知りたい。できればリアルタイムで
+
+公開URL: <https://stellacontrail.github.io/rent-strolling/>
 
 ## セットアップ
 
