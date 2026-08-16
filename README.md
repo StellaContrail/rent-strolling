@@ -18,19 +18,20 @@ npm run dev
 
 ## 家賃データについて
 
-表示される家賃は総務省「住宅・土地統計調査」に基づく市区町村単位の**目安**です。
-リアルタイムの実勢賃料ではありません。現状は開発確認用の少数の市区町村のみ仮データが入っています
-（`public/data/rent-by-municipality.json`）。
+表示される家賃は総務省「住宅・土地統計調査（令和5年）」の「延べ面積1m²当たり家賃」統計表
+（[0004021492](https://www.e-stat.go.jp/dbview?sid=0004021492)、民営借家・家賃0円を除く条件）に基づく市区町村単位の**目安**です。
+リアルタイムの実勢賃料ではありません。全国1227市区町村分のデータが `public/data/rent-by-municipality.json` に入っていますが、
+一部の小規模自治体はサンプル数不足により統計非公開のため対象外です。
 
-実データに更新するには、e-Stat APIの利用登録（<https://www.e-stat.go.jp/mypage/user/preregister>）でappIdを取得し、
+データを再取得するには、e-Stat APIの利用登録（<https://www.e-stat.go.jp/mypage/user/preregister>）でappIdを取得し、
 リポジトリ直下に `.env` を作成してください（`.env.example` は権限設定の都合でCLIから作成できなかったため、以下の内容を手動で保存してください）。
 
 ```
 ESTAT_APP_ID=
-ESTAT_STATS_DATA_ID=
+ESTAT_STATS_DATA_ID=0004021492
 ```
 
-`ESTAT_STATS_DATA_ID` には住宅・土地統計調査の対象統計表IDを指定します。設定後、以下を実行してください。
+設定後、以下を実行してください。
 
 ```bash
 npm run fetch-data

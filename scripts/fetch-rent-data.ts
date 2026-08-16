@@ -22,7 +22,8 @@ async function main() {
 
   const muniTable = JSON.parse(await readFile('public/data/muni-table.json', 'utf-8'));
 
-  const url = `https://api.e-stat.go.jp/rest/3.0/app/json/getStatsData?appId=${APP_ID}&statsDataId=${STATS_DATA_ID}`;
+  // cdCat01=3: 民営借家、cdCat02=2: 家賃0円(社宅等の無償住宅)を含まない
+  const url = `https://api.e-stat.go.jp/rest/3.0/app/json/getStatsData?appId=${APP_ID}&statsDataId=${STATS_DATA_ID}&cdCat01=3&cdCat02=2&limit=100000`;
   const res = await fetch(url);
   if (!res.ok) {
     console.error(`[fetch-rent-data] APIエラー: ${res.status}`);
