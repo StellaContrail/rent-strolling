@@ -1,4 +1,4 @@
-import { expect, test } from '@playwright/test';
+import { expect, test } from './fixtures/app.js';
 import { CHIYODA, grantAndSetGeolocation } from './fixtures/geolocation.js';
 
 test('現在地の家賃相場が表示される', async ({ page, context }) => {

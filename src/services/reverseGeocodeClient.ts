@@ -7,11 +7,19 @@ export function buildReverseGeocodeUrl(lat: number, lon: number): string {
 }
 
 export async function fetchMuniCd(lat: number, lon: number): Promise<string | null> {
-  const res = await fetch(buildReverseGeocodeUrl(lat, lon));
-  if (!res.ok) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 10_000);
+  try {
+    const res = await fetch(buildReverseGeocodeUrl(lat, lon), { signal: controller.signal });
+    if (!res.ok) {
+      return null;
+    }
+    const json = await res.json();
+    const parsed = parseReverseGeocodeResponse(json);
+    return parsed?.muniCd ?? null;
+  } catch {
     return null;
+  } finally {
+    clearTimeout(timeout);
   }
-  const json = await res.json();
-  const parsed = parseReverseGeocodeResponse(json);
-  return parsed?.muniCd ?? null;
 }

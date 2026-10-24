@@ -1,4 +1,4 @@
-import { expect, test } from '@playwright/test';
+import { expect, test } from './fixtures/app.js';
 import { CHIYODA, SHIBUYA, grantAndSetGeolocation } from './fixtures/geolocation.js';
 
 test('移動すると家賃相場の表示が自動更新される', async ({ page, context }) => {
